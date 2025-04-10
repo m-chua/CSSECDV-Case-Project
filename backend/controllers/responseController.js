@@ -1,4 +1,4 @@
-const review = require('../models/review.js')
+const review = require('../models/Review')
 const responseService = require('../services/responseService.js')
 const reviewService = require('../services/reviewService.js')
 

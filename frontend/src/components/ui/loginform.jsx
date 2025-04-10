@@ -54,16 +54,20 @@ const LoginForm = ({ isFlipped, setIsFlipped }) => {
             if (!response.ok) {
                 response = await triggerLogin('http://localhost:5000/api/restaurants/login')
                 
-                if(!response.ok){
-                    const data = await response.json()
-                    throw new Error(data.message || 'Login failed')           
-                } else {
-                    const data = await response.json()
-
-                    localStorage.setItem('token', data.token)
-                    localStorage.setItem('restaurantId', data.userId)      
-                    navigate(`/restaurants/${data.userId}`)          
-
+                if (!response.ok) {
+                    response = await triggerLogin('http://localhost:5000/api/admins/login')
+                    
+                    if(!response.ok){
+                        const data = await response.json()
+                        throw new Error(data.message || 'Login failed')           
+                    } else {
+                        const data = await response.json()
+    
+                        localStorage.setItem('token', data.token)
+                        localStorage.setItem('adminId', data.userId)      
+                        //navigate(`/restaurants/${data.userId}`)          
+                        navigate('/')
+                    }
                 }
             } else {
                 const data = await response.json()

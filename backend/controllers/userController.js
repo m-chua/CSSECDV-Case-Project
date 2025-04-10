@@ -1,4 +1,4 @@
-const review = require('../models/review.js')
+const review = require('../models/Review')
 const userService = require('../services/userService.js')
 
 const extractFilePath = (filePath) => {

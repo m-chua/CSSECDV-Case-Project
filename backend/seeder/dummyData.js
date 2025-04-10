@@ -196,6 +196,19 @@ const users = [
     }
 ]
 
+const admins = [
+    {
+        username: 'admin1',
+        password: 'password123',
+        avatar: 'uploads/admin/logo.png' // will surely fail to test Avatar Fallbacks
+    },
+    {
+        username: 'admin2',
+        password: 'password123',
+        avatar: 'uploads/admin/logo.png'
+    }
+]
+
 // Dummy data for reviews
 const reviews = [
     {
@@ -275,4 +288,4 @@ const responses = [
     }
 ]
 
-module.exports = { restaurants, responses, reviews, users }
+module.exports = { restaurants, responses, reviews, users, admins }

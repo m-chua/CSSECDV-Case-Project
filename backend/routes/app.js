@@ -3,6 +3,7 @@ const userRoutes = require('./userRoutes.js')
 const restaurantRoutes = require('./restaurantRoutes.js')
 const reviewRoutes = require('./reviewRoutes.js')
 const responseRoutes = require('./responseRoutes.js')
+const adminRoutes = require('./adminRoutes.js')
 const cors = require('cors')
 const path = require('path')
 
@@ -25,6 +26,7 @@ app.use(
 app.use('/uploads', express.static(path.join(__dirname, '../public/uploads')))
 app.use('/api/users', userRoutes)
 app.use('/api/restaurants', restaurantRoutes)
+app.use('/api/admins', adminRoutes)
 app.use('/api/reviews', reviewRoutes)
 app.use('/api/responses', responseRoutes)
 

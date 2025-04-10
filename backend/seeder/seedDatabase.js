@@ -4,7 +4,9 @@ const User = require('../models/User')
 const Review = require('../models/Review')
 const Restaurant = require('../models/Restaurant')
 const Response = require('../models/Response')
-const { restaurants, reviews, responses, users } = require('./dummyData')
+const Admin = require('../models/admin')
+
+const { restaurants, reviews, responses, users, admins } = require('./dummyData')
 
 const hashPasswords = async (entities) => {
     return await Promise.all(
@@ -27,12 +29,15 @@ const seedDatabase = async () => {
         await Restaurant.deleteMany()
         await Review.deleteMany()
         await Response.deleteMany()
+        await Admin.deleteMany()
 
         const hashedUsers = await hashPasswords(users)
         const hashedRestaurants = await hashPasswords(restaurants)
+        const hashedAdmin = await hashPasswords(admins)
 
         const createdUsers = await User.insertMany(hashedUsers)
         const createdRestaurants = await Restaurant.insertMany(hashedRestaurants)
+        const createdAdmin = await Admin.insertMany(hashedAdmin)
         const createdReviews = await Review.insertMany(reviews)
         const createdResponses = await Response.insertMany(responses)
 
@@ -69,6 +74,7 @@ const seedDatabase = async () => {
         console.log({
             createdUsers,
             createdRestaurants,
+            createdAdmin,
             createdReviews,
             createdResponses
         })
