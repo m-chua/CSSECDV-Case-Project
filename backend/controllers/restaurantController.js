@@ -140,7 +140,10 @@ const loginRestaurantUser = async (req, res, next) => {
                 }
 
         const token = await restaurantService.generateToken(restaurantUser)
-        res.json({ token, userId: restaurantUser.id })
+        const login = restaurantUser.lastLogin
+        restaurantUser.lastLogin = Date.now()
+        restaurantService.updateRestaurant(restaurantUser.id, restaurantUser)
+        res.json({ token, userId: restaurantUser.id , lastLogin: login})
     } catch (error) {
         next(error)
     }

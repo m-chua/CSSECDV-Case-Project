@@ -24,7 +24,8 @@ const restaurantSchema = new Schema({
 
     
     attemptsSinceLastLogin: {type: Number, default:0},
-    accDisable: { type: Date, default: null }
+    accDisable: { type: Date, default: null },
+    lastLogin: { type: Date, default: Date.now }
 })
 
 restaurantSchema.methods.comparePassword = async function (candidatePassword) {

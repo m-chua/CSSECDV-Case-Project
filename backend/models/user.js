@@ -13,7 +13,8 @@ const userSchema = new Schema({
     reviews: [{ type: Schema.Types.ObjectId, ref: 'Review', default: [] }],
 
     attemptsSinceLastLogin: {type: Number, default:0},
-    accDisable: { type: Date, default: null }
+    accDisable: { type: Date, default: null },
+    lastLogin: { type: Date, default: Date.now }
 })
 
 userSchema.methods.comparePassword = async function (candidatePassword) {

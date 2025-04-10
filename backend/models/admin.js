@@ -8,7 +8,8 @@ const adminSchema = new Schema({
     avatar: { type: String, default: 'logo.png' },
     
     attemptsSinceLastLogin: {type: Number, default:0},
-    accDisable: { type: Date, default: null }
+    accDisable: { type: Date, default: null },
+    lastLogin: { type: Date, default: Date.now }
 })
 
 adminSchema.methods.comparePassword = async function (candidatePassword) {

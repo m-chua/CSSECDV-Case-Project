@@ -1,5 +1,5 @@
 const review = require('../models/Review')
-const User = require('../models/User')
+const User = require('../models/user')
 const userService = require('../services/userService.js')
 
 const extractFilePath = (filePath) => {
@@ -73,7 +73,10 @@ const loginUser = async (req, res, next) => {
         }
         //token
         const token = await userService.generateToken(user)
-        return res.json({ token, userId: user.id })
+        const login = user.lastLogin
+        user.lastLogin = Date.now()
+        userService.updateUser(user.id, user)
+        return res.json({ token, userId: user.id, lastLogin: login })
         
     } catch (error) {
         next(error)

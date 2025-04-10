@@ -72,7 +72,10 @@ const loginAdmin = async (req, res, next) => {
             }
         }
         const token = await adminService.generateToken(admin)
-        res.json({ token, adminId: admin.id })
+        const login = admin.lastLogin
+        admin.lastLogin = Date.now()
+        adminService.updateAdmin(admin.id, admin)
+        res.json({ token, adminId: admin.id , lastLogin: login})
     } catch (error) {
         next(error)
     }
