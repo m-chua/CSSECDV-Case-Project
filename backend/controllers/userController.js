@@ -29,7 +29,7 @@ const loginUser = async (req, res, next) => {
         const fileName = "Logs.txt";
         const date = new Date().toLocaleString();
         const output = `Login attempt with details: Username: ` + username + " Password: "+password;
-        
+       
         fs.appendFile(fileName, date + " " + output + "\n", (err) => {
             if (err)  {
                 console.error("Error writing to log file:", err);
@@ -53,6 +53,7 @@ const loginUser = async (req, res, next) => {
                     temp.attemptsSinceLastLogin = 0
                     temp.accDisable = futureDate
                 }
+                temp.lastLogin = Date.now()
                 userService.updateUser(temp.id, temp)
             }
             

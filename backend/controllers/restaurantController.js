@@ -105,6 +105,7 @@ const loginRestaurantUser = async (req, res, next) => {
             }
         });
         if (!restaurantUser) {
+            
             temp = await Restaurant.findOne({ username })
                         
                 console.log("invalid attempt")
@@ -120,9 +121,11 @@ const loginRestaurantUser = async (req, res, next) => {
                     temp.attemptsSinceLastLogin = 0
                     temp.accDisable = futureDate
                 }
+                temp.lastLogin = Date.now()
                 restaurantService.updateRestaurant(temp.id, temp)
             }
                         
+            
             return res.status(401).json({ message: 'Invalid credentials. Please try again.' })
         }
 
