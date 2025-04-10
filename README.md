@@ -1,6 +1,4 @@
-
-# SHALLOW DEMO VIDEO: https://drive.google.com/file/d/1PjMHa-7a1egAhlHH803Ja7Xa_3NMMP3W/view?usp=sharing
-
+# CHECKLIST: https://docs.google.com/document/d/1pQFUkLp60Oc9cqz8jHjb1uD1_NZ9PTkF/edit?usp=sharing&ouid=103252469160553723985&rtpof=true&sd=true
 
 # Install the packages & seed the database
 `cd priv-sweng`
