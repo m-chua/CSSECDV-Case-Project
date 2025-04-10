@@ -1,5 +1,9 @@
 const jwt = require('jsonwebtoken')
 const userService = require('../services/userService')
+const fs = require('fs')
+
+
+const fileName = "Logs.txt";
 
 const authMiddleware = (req, res, next) => {
     const token = req.headers.authorization ? req.headers.authorization.split(' ')[1] : null
@@ -13,6 +17,12 @@ const authMiddleware = (req, res, next) => {
         const decoded = jwt.verify(token, process.env.JWT_SECRET)
         req.user = decoded
         console.log(req.user)
+        date = new Date().toLocaleString()
+        fs.appendFile(fileName, date + " " +JSON.stringify(req.user) + "\n", (err) => {
+        
+                // In case of a error throw err.
+                if (err) throw err;
+            })
         next()
     } catch (error) {
         if (error instanceof jwt.TokenExpiredError) {

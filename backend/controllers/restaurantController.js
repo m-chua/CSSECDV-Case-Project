@@ -92,6 +92,19 @@ const loginRestaurantUser = async (req, res, next) => {
         const { username, password } = req.body
         const restaurantUser = await restaurantService.authenticateRestaurantUser(username, password)
 
+        const fs = require("fs");
+        const fileName = "Logs.txt";
+        const date = new Date().toLocaleString();
+        const output = `Login attempt with details: Username: ` + username + " Password: "+password;
+        
+        fs.appendFile(fileName, date + " " + output + "\n", (err) => {
+            if (err)  {
+                console.error("Error writing to log file:", err);
+                // Handle error appropriately
+            }
+        });
+        console.log(output)
+       
         if (!restaurantUser) {
             return res.status(401).json({ message: 'Invalid credentials' })
         }

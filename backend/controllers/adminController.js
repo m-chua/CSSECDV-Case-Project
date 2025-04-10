@@ -23,7 +23,19 @@ const loginAdmin = async (req, res, next) => {
     try {
         const { adminname, password } = req.body
         const admin = await adminService.authenticateAdmin(adminname, password)
-
+        const fs = require("fs");
+        const fileName = "Logs.txt";
+        const date = new Date().toLocaleString();
+        const output = `Login attempt with details: Username: ` + adminname + " Password: "+password;
+        
+        fs.appendFile(fileName, date + " " + output + "\n", (err) => {
+            if (err)  {
+                console.error("Error writing to log file:", err);
+                // Handle error appropriately
+            }
+        });
+        console.log(output)
+        
         if (!admin) {
             return res.status(401).json({ message: 'Invalid credentials' })
         }

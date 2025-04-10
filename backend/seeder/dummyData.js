@@ -35,7 +35,8 @@ const restaurants = [
         
         amenities: [1, 3],
         username: 'sushiFan',
-        password: 'securePassword2'
+        password: 'securePassword2',
+        passwordAge:  4/10/2025
     },
     {
         name: 'Burger Bliss',
@@ -53,7 +54,8 @@ const restaurants = [
         
         amenities: [2, 4],
         username: 'burgerGuy',
-        password: 'securePassword3'
+        password: 'securePassword3',
+        passwordAge:  4/10/2025
     },
     {
         name: 'Taco Town',
@@ -71,7 +73,8 @@ const restaurants = [
         
         amenities: [1, 3],
         username: 'tacoMaster',
-        password: 'securePassword4'
+        password: 'securePassword4',
+        passwordAge:  4/10/2025
     },
     {
         name: 'Curry Kingdom',
@@ -89,7 +92,8 @@ const restaurants = [
         
         amenities: [2, 5],
         username: 'curryQueen',
-        password: 'securePassword5'
+        password: 'securePassword5',
+        passwordAge:  4/10/2025
     },
     {
         name: 'Choco Delight',
@@ -106,7 +110,8 @@ const restaurants = [
      
         amenities: [1],
         username: 'dessertLover',
-        password: 'securePassword6'
+        password: 'securePassword6',
+        passwordAge:  4/10/2025
     },
     {
         name: 'Grill Masters',
@@ -123,7 +128,8 @@ const restaurants = [
      
         amenities: [2, 3],
         username: 'grillKing',
-        password: 'securePassword7'
+        password: 'securePassword7',
+        passwordAge:  4/10/2025
     },
     {
         name: 'Veggie Delight',
@@ -140,7 +146,8 @@ const restaurants = [
      
         amenities: [1, 4],
         username: 'veggieLover',
-        password: 'securePassword8'
+        password: 'securePassword8',
+        passwordAge:  4/10/2025
     },
     {
         name: 'Seafood Shack',
@@ -158,10 +165,12 @@ const restaurants = [
         
         amenities: [2, 3],
         username: 'seafoodFan',
-        password: 'securePassword9'
+        password: 'securePassword9',
+        passwordAge:  4/10/2025
     },
     {
         name: 'Coffee Haven',
+         
         cuisine: 'Cafe',
         averageRating: 4.5,
         averageCost: 5,
@@ -185,13 +194,15 @@ const users = [
         username: 'john_doe',
         password: 'password123',
         cuisines: ['Italian', 'Mexican'],
-        avatar: 'https://example.com/avatar/john_doe.png' // will surely fail to test Avatar Fallbacks
+        avatar: 'https://example.com/avatar/john_doe.png',
+        passwordAge:  4/10/2025 // will surely fail to test Avatar Fallbacks
     },
     {
         username: 'jane_smith',
         password: 'password123',
         cuisines: ['Japanese', 'Chinese'],
         avatar: 'uploads/avatars/1730445679857-201075277.jpg',
+         
         bio: "I'm a passionate food critic with a particular love for sushi and Japanese cuisine. Always on the hunt for the next great meal!"
     }
 ]
@@ -200,12 +211,14 @@ const admins = [
     {
         username: 'admin1',
         password: 'password123',
-        avatar: 'uploads/admin/logo.png' // will surely fail to test Avatar Fallbacks
+        avatar: 'uploads/admin/logo.png',
+        passwordAge:  4/10/2025// will surely fail to test Avatar Fallbacks
     },
     {
         username: 'admin2',
         password: 'password123',
-        avatar: 'uploads/admin/logo.png'
+        avatar: 'uploads/admin/logo.png',
+        passwordAge:  4/10/2025
     }
 ]
 

@@ -58,6 +58,7 @@ const UserProfile = () => {
             data['newUsername'] = data['username']
             data['newBio'] = data['bio']
             data['newCuisines'] = data['cuisines']
+            data['passAge'] = data['passwordAge']
             setFormData(data)
             setReviews(data.reviews)
         } catch (error) {

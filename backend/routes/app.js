@@ -6,11 +6,20 @@ const responseRoutes = require('./responseRoutes.js')
 const adminRoutes = require('./adminRoutes.js')
 const cors = require('cors')
 const path = require('path')
+const fs = require('fs')
 
 const app = express()
-
+const fileName = "Logs.txt";
+date = new Date().toLocaleString();
+      
 app.use((req, res, next) => {
-    console.log(`${req.method} request made to: ${req.originalUrl}`);
+    output = `${req.method} request made to: ${req.originalUrl}`;
+    console.log(output);
+    fs.appendFile(fileName, date + " " + output + "\n", (err) => {
+
+        // In case of a error throw err.
+        if (err) throw err;
+    })
     next();  // Pass control to the next middleware/route handler
 });
 

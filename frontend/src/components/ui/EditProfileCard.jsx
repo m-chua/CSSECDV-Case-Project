@@ -47,6 +47,8 @@ const EditProfile = ({ user, isEditDialogOpen, setIsEditDialogOpen, setUserData 
         // console.log(user.newPassword)
         if (user.newPassword.length > 0 && user.newPassword.length < 8) {
             setError('Password must be at least 8 characters.')
+        }else if (formData.password && !(/[a-zA-Z]/.test(formData.password) && /[0-9]/.test(formData.password))) {
+            setError('Passwords should contain both numbers and letters.')//'Passwords should contain both numbers and letters.'
         } else if (user.newPassword !== user.confirmPassword) {
             setError('Passwords do not match.')
         } else if (user.password == user.newPassword) {

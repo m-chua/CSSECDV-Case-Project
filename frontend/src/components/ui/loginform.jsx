@@ -68,6 +68,12 @@ const LoginForm = ({ isFlipped, setIsFlipped }) => {
                         //navigate(`/restaurants/${data.userId}`)          
                         navigate('/')
                     }
+                } else {
+                    const data = await response.json()
+    
+                    localStorage.setItem('token', data.token)
+                    localStorage.setItem('adminId', data.userId)      
+                    navigate(`/restaurants/${data.userId}`)        
                 }
             } else {
                 const data = await response.json()

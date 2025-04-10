@@ -83,6 +83,8 @@ const RestaurantRegistrationForm = () => {
     useEffect(() => {
         if (formData.password && formData.password.length < 8) {
             setError('Password must be at least 8 characters.')
+        } else if (formData.password && !(/[a-zA-Z]/.test(formData.password) && /[0-9]/.test(formData.password))) {
+            setError('Passwords should contain both numbers and letters.')//'Passwords should contain both numbers and letters.'
         } else if (formData.password && formData.confirmPassword && formData.password !== formData.confirmPassword) {
             setError('Passwords do not match.')
         } else {

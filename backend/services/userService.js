@@ -23,7 +23,7 @@ const getUserById = async (id) => {
 
 const updateUser = async (id, data) => {
     // update the password only when correct and needed
-    if (data.newPassword) {
+    if (data.newPassword && data.newPassword) {
         const isPassCorrect = await authenticateUser(data.oldUsername, data.password)
 
         if (isPassCorrect) {

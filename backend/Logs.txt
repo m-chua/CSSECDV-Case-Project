@@ -1,0 +1,364 @@
+4/10/2025, 4:59:56 PM OPTIONS request made to: /api/users/login
+4/10/2025, 4:59:56 PM POST request made to: /api/users/login
+4/10/2025, 5:00:06 PM Login attempt with details: Username: jane_smith Password: password123sb
+
+4/10/2025, 4:59:56 PM OPTIONS request made to: /api/restaurants/login
+4/10/2025, 4:59:56 PM POST request made to: /api/restaurants/login
+4/10/2025, 4:59:56 PM OPTIONS request made to: /api/admins/login
+4/10/2025, 4:59:56 PM POST request made to: /api/admins/login
+4/10/2025, 4:59:56 PM OPTIONS request made to: /api/users/login
+4/10/2025, 4:59:56 PM POST request made to: /api/users/login
+4/10/2025, 5:01:09 PM Login attempt with details: Username: jane_smith Password: password123
+
+4/10/2025, 4:59:56 PM OPTIONS request made to: /api/users/67f7781adb330de215fc901d
+4/10/2025, 4:59:56 PM OPTIONS request made to: /api/users/checkToken
+4/10/2025, 4:59:56 PM OPTIONS request made to: /api/users/67f7781adb330de215fc901d
+4/10/2025, 4:59:56 PM OPTIONS request made to: /api/users/67f7781adb330de215fc901d
+4/10/2025, 4:59:56 PM OPTIONS request made to: /api/users/checkToken
+4/10/2025, 4:59:56 PM OPTIONS request made to: /api/users/67f7781adb330de215fc901d
+4/10/2025, 4:59:56 PM POST request made to: /api/users/checkToken
+4/10/2025, 4:59:56 PM GET request made to: /api/users/67f7781adb330de215fc901d
+4/10/2025, 5:01:09 PM {"id":"67f7781adb330de215fc901d","username":"jane_smith","iat":1744275669,"exp":1744279269}
+4/10/2025, 5:01:09 PM POST request made to: /api/users/checkToken
+4/10/2025, 5:01:09 PM GET request made to: /api/users/67f7781adb330de215fc901d
+4/10/2025, 5:01:09 PM {"id":"67f7781adb330de215fc901d","username":"jane_smith","iat":1744275669,"exp":1744279269}
+4/10/2025, 5:01:09 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/10/2025, 5:01:09 PM GET request made to: /api/users/67f7781adb330de215fc901d
+4/10/2025, 5:01:09 PM {"id":"67f7781adb330de215fc901d","username":"jane_smith","iat":1744275669,"exp":1744279269}
+4/10/2025, 5:01:09 PM GET request made to: /api/users/67f7781adb330de215fc901d
+4/10/2025, 5:01:09 PM {"id":"67f7781adb330de215fc901d","username":"jane_smith","iat":1744275669,"exp":1744279269}
+4/10/2025, 5:01:09 PM GET request made to: /uploads/media/dummy-image.jpg
+4/10/2025, 5:01:09 PM OPTIONS request made to: /api/users/logout
+4/10/2025, 5:01:09 PM POST request made to: /api/users/logout
+4/10/2025, 5:05:40 PM {"id":"67f7781adb330de215fc901d","username":"jane_smith","iat":1744275669,"exp":1744279269}
+4/10/2025, 5:05:40 PM GET request made to: /api/users/check-username/jane_smith
+4/10/2025, 5:05:40 PM GET request made to: /api/restaurants
+4/10/2025, 5:05:40 PM GET request made to: /api/restaurants
+4/10/2025, 5:05:40 PM GET request made to: /undefined
+4/10/2025, 5:05:40 PM GET request made to: /api/restaurants/67f7781adb330de215fc901f
+4/10/2025, 5:05:40 PM GET request made to: /api/restaurants/67f7781adb330de215fc901f
+4/10/2025, 5:05:40 PM GET request made to: /api/restaurants
+4/10/2025, 5:05:40 PM GET request made to: /api/restaurants
+4/10/2025, 5:05:40 PM GET request made to: /api/restaurants/67f7781adb330de215fc9020
+4/10/2025, 5:05:40 PM GET request made to: /undefined
+4/10/2025, 5:05:40 PM GET request made to: /api/restaurants/67f7781adb330de215fc9020
+4/10/2025, 5:05:40 PM GET request made to: /api/restaurants
+4/10/2025, 5:05:40 PM GET request made to: /api/restaurants
+4/10/2025, 5:05:40 PM GET request made to: /api/restaurants/67f7781adb330de215fc9021
+4/10/2025, 5:05:40 PM GET request made to: /undefined
+4/10/2025, 5:05:40 PM GET request made to: /api/restaurants/67f7781adb330de215fc9021
+4/10/2025, 5:05:40 PM GET request made to: /api/restaurants
+4/10/2025, 5:05:40 PM GET request made to: /api/restaurants
+4/10/2025, 5:05:40 PM GET request made to: /api/restaurants/67f7781adb330de215fc9023
+4/10/2025, 5:05:40 PM GET request made to: /undefined
+4/10/2025, 5:05:40 PM GET request made to: /api/restaurants/67f7781adb330de215fc9023
+4/10/2025, 5:05:40 PM GET request made to: /api/restaurants
+4/10/2025, 5:05:40 PM GET request made to: /api/restaurants
+4/10/2025, 5:05:40 PM GET request made to: /uploads/media/dummy-image.jpg
+4/10/2025, 5:05:40 PM GET request made to: /api/restaurants/67f76ee321e2992a475b92e3
+4/10/2025, 5:05:40 PM GET request made to: /undefined
+4/10/2025, 5:05:40 PM GET request made to: /api/restaurants/67f76ee321e2992a475b92e3
+4/10/2025, 5:05:40 PM GET request made to: /api/restaurants/67f76ee321e2992a475b92e4
+4/10/2025, 5:05:40 PM GET request made to: /undefined
+4/10/2025, 5:05:40 PM GET request made to: /api/restaurants/67f76ee321e2992a475b92e4
+4/10/2025, 5:05:40 PM GET request made to: /api/restaurants
+4/10/2025, 5:05:40 PM GET request made to: /api/restaurants
+4/10/2025, 5:05:40 PM GET request made to: /uploads/media/dummy-image.jpg
+4/10/2025, 5:16:41 PM GET request made to: /api/users/check-username/jane_smith
+4/10/2025, 5:16:41 PM OPTIONS request made to: /api/users/login
+4/10/2025, 5:16:41 PM POST request made to: /api/users/login
+4/10/2025, 5:20:13 PM Login attempt with details: Username: jane_smith Password: password123
+4/10/2025, 5:16:41 PM OPTIONS request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:16:41 PM OPTIONS request made to: /api/users/checkToken
+4/10/2025, 5:16:41 PM OPTIONS request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:16:41 PM OPTIONS request made to: /api/users/checkToken
+4/10/2025, 5:20:13 PM {"id":"67f78c75dd47f1a4556d5379","username":"jane_smith","iat":1744276813,"exp":1744280413}
+4/10/2025, 5:16:41 PM GET request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:20:13 PM POST request made to: /api/users/checkToken
+4/10/2025, 5:20:13 PM POST request made to: /api/users/checkToken
+4/10/2025, 5:20:13 PM GET request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:20:13 PM {"id":"67f78c75dd47f1a4556d5379","username":"jane_smith","iat":1744276813,"exp":1744280413}
+4/10/2025, 5:20:13 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/10/2025, 5:20:14 PM {"id":"67f78c75dd47f1a4556d5379","username":"jane_smith","iat":1744276813,"exp":1744280413}
+4/10/2025, 5:20:13 PM GET request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:20:14 PM GET request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:20:14 PM {"id":"67f78c75dd47f1a4556d5379","username":"jane_smith","iat":1744276813,"exp":1744280413}
+4/10/2025, 5:20:14 PM GET request made to: /uploads/media/dummy-image.jpg
+4/10/2025, 5:20:14 PM OPTIONS request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:20:14 PM OPTIONS request made to: /api/users/checkToken
+4/10/2025, 5:20:14 PM OPTIONS request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:20:14 PM OPTIONS request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:20:14 PM OPTIONS request made to: /api/users/checkToken
+4/10/2025, 5:20:14 PM OPTIONS request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:20:14 PM POST request made to: /api/users/checkToken
+4/10/2025, 5:20:14 PM GET request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:22:19 PM {"id":"67f78c75dd47f1a4556d5379","username":"jane_smith","iat":1744276813,"exp":1744280413}
+4/10/2025, 5:22:19 PM POST request made to: /api/users/checkToken
+4/10/2025, 5:22:19 PM GET request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:22:19 PM {"id":"67f78c75dd47f1a4556d5379","username":"jane_smith","iat":1744276813,"exp":1744280413}
+4/10/2025, 5:22:19 PM GET request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:22:19 PM {"id":"67f78c75dd47f1a4556d5379","username":"jane_smith","iat":1744276813,"exp":1744280413}
+4/10/2025, 5:22:19 PM GET request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:22:19 PM {"id":"67f78c75dd47f1a4556d5379","username":"jane_smith","iat":1744276813,"exp":1744280413}
+4/10/2025, 5:22:19 PM OPTIONS request made to: /api/users/checkToken
+4/10/2025, 5:22:19 PM OPTIONS request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:22:19 PM POST request made to: /api/users/checkToken
+4/10/2025, 5:22:19 PM GET request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:25:27 PM {"id":"67f78c75dd47f1a4556d5379","username":"jane_smith","iat":1744276813,"exp":1744280413}
+4/10/2025, 5:25:27 PM POST request made to: /api/users/checkToken
+4/10/2025, 5:25:27 PM GET request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:25:29 PM {"id":"67f78c75dd47f1a4556d5379","username":"jane_smith","iat":1744276813,"exp":1744280413}
+4/10/2025, 5:25:29 PM OPTIONS request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:25:29 PM OPTIONS request made to: /api/users/checkToken
+4/10/2025, 5:25:29 PM POST request made to: /api/users/checkToken
+4/10/2025, 5:25:29 PM GET request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:25:32 PM {"id":"67f78c75dd47f1a4556d5379","username":"jane_smith","iat":1744276813,"exp":1744280413}
+4/10/2025, 5:25:32 PM OPTIONS request made to: /api/users/checkToken
+4/10/2025, 5:25:32 PM OPTIONS request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:25:32 PM POST request made to: /api/users/checkToken
+4/10/2025, 5:25:32 PM GET request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:25:38 PM {"id":"67f78c75dd47f1a4556d5379","username":"jane_smith","iat":1744276813,"exp":1744280413}
+4/10/2025, 5:25:38 PM POST request made to: /api/users/checkToken
+4/10/2025, 5:25:38 PM GET request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:25:42 PM {"id":"67f78c75dd47f1a4556d5379","username":"jane_smith","iat":1744276813,"exp":1744280413}
+4/10/2025, 5:25:42 PM OPTIONS request made to: /api/users/logout
+4/10/2025, 5:25:42 PM POST request made to: /api/users/logout
+4/10/2025, 5:27:44 PM {"id":"67f78c75dd47f1a4556d5379","username":"jane_smith","iat":1744276813,"exp":1744280413}
+4/10/2025, 5:27:44 PM GET request made to: /api/users/check-username/jane_smith
+4/10/2025, 5:27:44 PM OPTIONS request made to: /api/users/login
+4/10/2025, 5:27:44 PM POST request made to: /api/users/login
+4/10/2025, 5:28:13 PM Login attempt with details: Username: pastaLover Password: securePasword1
+4/10/2025, 5:27:44 PM OPTIONS request made to: /api/restaurants/login
+4/10/2025, 5:27:44 PM POST request made to: /api/restaurants/login
+4/10/2025, 5:28:13 PM Login attempt with details: Username: pastaLover Password: securePasword1
+4/10/2025, 5:27:44 PM OPTIONS request made to: /api/admins/login
+4/10/2025, 5:27:44 PM POST request made to: /api/admins/login
+4/10/2025, 5:27:44 PM POST request made to: /api/users/login
+4/10/2025, 5:28:17 PM Login attempt with details: Username: pastaLover Password: securePassword1
+4/10/2025, 5:27:44 PM POST request made to: /api/restaurants/login
+4/10/2025, 5:28:17 PM Login attempt with details: Username: pastaLover Password: securePassword1
+4/10/2025, 5:27:44 PM POST request made to: /api/admins/login
+4/10/2025, 5:27:44 PM OPTIONS request made to: /api/users/login
+4/10/2025, 5:27:44 PM POST request made to: /api/users/login
+4/10/2025, 5:28:44 PM Login attempt with details: Username: sushiFan Password: securePassword2
+4/10/2025, 5:27:44 PM OPTIONS request made to: /api/restaurants/login
+4/10/2025, 5:27:44 PM POST request made to: /api/restaurants/login
+4/10/2025, 5:28:44 PM Login attempt with details: Username: sushiFan Password: securePassword2
+4/10/2025, 5:27:44 PM OPTIONS request made to: /api/admins/login
+4/10/2025, 5:27:44 PM POST request made to: /api/admins/login
+4/10/2025, 5:27:44 PM OPTIONS request made to: /api/users/login
+4/10/2025, 5:27:44 PM POST request made to: /api/users/login
+4/10/2025, 5:29:37 PM Login attempt with details: Username: jane_smith Password: password123
+4/10/2025, 5:27:44 PM OPTIONS request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:27:44 PM OPTIONS request made to: /api/users/checkToken
+4/10/2025, 5:27:44 PM OPTIONS request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:27:44 PM OPTIONS request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:27:44 PM OPTIONS request made to: /api/users/checkToken
+4/10/2025, 5:27:44 PM OPTIONS request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:27:44 PM POST request made to: /api/users/checkToken
+4/10/2025, 5:27:44 PM GET request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:29:37 PM {"id":"67f78c75dd47f1a4556d5379","username":"jane_smith","iat":1744277377,"exp":1744280977}
+4/10/2025, 5:29:37 PM POST request made to: /api/users/checkToken
+4/10/2025, 5:29:37 PM {"id":"67f78c75dd47f1a4556d5379","username":"jane_smith","iat":1744277377,"exp":1744280977}
+4/10/2025, 5:29:37 PM GET request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:29:37 PM GET request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:29:37 PM {"id":"67f78c75dd47f1a4556d5379","username":"jane_smith","iat":1744277377,"exp":1744280977}
+4/10/2025, 5:29:37 PM GET request made to: /api/users/67f78c75dd47f1a4556d5379
+4/10/2025, 5:29:37 PM {"id":"67f78c75dd47f1a4556d5379","username":"jane_smith","iat":1744277377,"exp":1744280977}
+4/10/2025, 5:29:37 PM GET request made to: /uploads/media/dummy-image.jpg
+4/10/2025, 5:29:37 PM OPTIONS request made to: /api/users/logout
+4/10/2025, 5:29:37 PM POST request made to: /api/users/logout
+4/10/2025, 5:31:45 PM {"id":"67f78c75dd47f1a4556d5379","username":"jane_smith","iat":1744277377,"exp":1744280977}
+4/10/2025, 5:31:45 PM GET request made to: /api/users/check-username/jane_smith
+4/10/2025, 5:31:45 PM OPTIONS request made to: /api/users/login
+4/10/2025, 5:31:45 PM POST request made to: /api/users/login
+4/10/2025, 5:31:54 PM Login attempt with details: Username: sushiLover Password: securePassword2
+4/10/2025, 5:31:45 PM OPTIONS request made to: /api/restaurants/login
+4/10/2025, 5:31:45 PM POST request made to: /api/restaurants/login
+4/10/2025, 5:31:54 PM Login attempt with details: Username: sushiLover Password: securePassword2
+4/10/2025, 5:31:45 PM OPTIONS request made to: /api/admins/login
+4/10/2025, 5:31:45 PM POST request made to: /api/admins/login
+4/10/2025, 5:32:04 PM GET request made to: /api/users/check-username/jane_smith
+4/10/2025, 5:32:04 PM OPTIONS request made to: /api/users/login
+4/10/2025, 5:32:04 PM POST request made to: /api/users/login
+4/10/2025, 5:32:19 PM Login attempt with details: Username: sushiLover Password: securePassword2
+4/10/2025, 5:32:04 PM OPTIONS request made to: /api/restaurants/login
+4/10/2025, 5:32:04 PM POST request made to: /api/restaurants/login
+4/10/2025, 5:32:19 PM Login attempt with details: Username: sushiLover Password: securePassword2
+4/10/2025, 5:32:04 PM OPTIONS request made to: /api/admins/login
+4/10/2025, 5:32:04 PM POST request made to: /api/admins/login
+4/10/2025, 5:32:19 PM Login attempt with details: Username: undefined Password: securePassword2
+4/10/2025, 5:32:34 PM OPTIONS request made to: /api/users/login
+4/10/2025, 5:32:34 PM POST request made to: /api/users/login
+4/10/2025, 5:32:34 PM Login attempt with details: Username: sushiLover Password: securePassword2
+4/10/2025, 5:32:34 PM OPTIONS request made to: /api/restaurants/login
+4/10/2025, 5:32:34 PM POST request made to: /api/restaurants/login
+4/10/2025, 5:32:34 PM Login attempt with details: Username: sushiLover Password: securePassword2
+4/10/2025, 5:32:34 PM OPTIONS request made to: /api/admins/login
+4/10/2025, 5:32:34 PM POST request made to: /api/admins/login
+4/10/2025, 5:32:34 PM Login attempt with details: Username: undefined Password: securePassword2
+4/10/2025, 5:32:34 PM POST request made to: /api/users/login
+4/10/2025, 5:32:35 PM Login attempt with details: Username: sushiLover Password: securePassword2
+4/10/2025, 5:32:34 PM POST request made to: /api/restaurants/login
+4/10/2025, 5:32:35 PM Login attempt with details: Username: sushiLover Password: securePassword2
+4/10/2025, 5:32:34 PM POST request made to: /api/admins/login
+4/10/2025, 5:32:35 PM Login attempt with details: Username: undefined Password: securePassword2
+4/10/2025, 5:32:34 PM GET request made to: /api/users/check-username/jane_smith
+4/10/2025, 5:32:34 PM OPTIONS request made to: /api/users/login
+4/10/2025, 5:32:34 PM POST request made to: /api/users/login
+4/10/2025, 5:32:46 PM Login attempt with details: Username: sushiLover Password: securePassword2
+4/10/2025, 5:32:34 PM OPTIONS request made to: /api/restaurants/login
+4/10/2025, 5:32:34 PM POST request made to: /api/restaurants/login
+4/10/2025, 5:32:46 PM Login attempt with details: Username: sushiLover Password: securePassword2
+4/10/2025, 5:32:34 PM OPTIONS request made to: /api/admins/login
+4/10/2025, 5:32:34 PM POST request made to: /api/admins/login
+4/10/2025, 5:32:46 PM Login attempt with details: Username: undefined Password: securePassword2
+4/10/2025, 5:34:20 PM OPTIONS request made to: /api/users/login
+4/10/2025, 5:34:20 PM POST request made to: /api/users/login
+4/10/2025, 5:34:21 PM Login attempt with details: Username: sushiLover Password: securePassword2
+4/10/2025, 5:34:20 PM OPTIONS request made to: /api/restaurants/login
+4/10/2025, 5:34:20 PM POST request made to: /api/restaurants/login
+4/10/2025, 5:34:20 PM OPTIONS request made to: /api/admins/login
+4/10/2025, 5:34:20 PM POST request made to: /api/admins/login
+4/10/2025, 5:34:21 PM Login attempt with details: Username: undefined Password: securePassword2
+4/10/2025, 5:34:20 PM OPTIONS request made to: /api/users/login
+4/10/2025, 5:34:20 PM POST request made to: /api/users/login
+4/10/2025, 5:34:42 PM Login attempt with details: Username: admin1 Password: password123
+4/10/2025, 5:34:20 PM OPTIONS request made to: /api/restaurants/login
+4/10/2025, 5:34:20 PM POST request made to: /api/restaurants/login
+4/10/2025, 5:34:20 PM OPTIONS request made to: /api/admins/login
+4/10/2025, 5:34:20 PM POST request made to: /api/admins/login
+4/10/2025, 5:34:42 PM Login attempt with details: Username: undefined Password: password123
+4/10/2025, 5:34:20 PM GET request made to: /api/restaurants
+4/10/2025, 5:34:20 PM GET request made to: /api/restaurants
+4/10/2025, 5:34:20 PM GET request made to: /uploads/media/dummy-image.jpg
+4/10/2025, 5:35:32 PM OPTIONS request made to: /api/users/logout
+4/10/2025, 5:35:32 PM POST request made to: /api/users/logout
+4/10/2025, 5:35:39 PM {"id":"67f78c75dd47f1a4556d5386","iat":1744277682,"exp":1744281282}
+4/10/2025, 5:35:39 PM GET request made to: /api/users/check-username/admin1
+4/10/2025, 5:35:39 PM OPTIONS request made to: /api/users/login
+4/10/2025, 5:35:39 PM POST request made to: /api/users/login
+4/10/2025, 5:35:41 PM Login attempt with details: Username: admin1 Password: password123
+4/10/2025, 5:35:39 PM OPTIONS request made to: /api/restaurants/login
+4/10/2025, 5:35:39 PM POST request made to: /api/restaurants/login
+4/10/2025, 5:35:39 PM OPTIONS request made to: /api/admins/login
+4/10/2025, 5:35:39 PM POST request made to: /api/admins/login
+4/10/2025, 5:35:41 PM Login attempt with details: Username: admin1 Password: password123
+4/10/2025, 5:35:39 PM OPTIONS request made to: /api/users/login
+4/10/2025, 5:35:39 PM POST request made to: /api/users/login
+4/10/2025, 5:36:22 PM Login attempt with details: Username: admin1 Password: password123
+4/10/2025, 5:35:39 PM OPTIONS request made to: /api/restaurants/login
+4/10/2025, 5:35:39 PM POST request made to: /api/restaurants/login
+4/10/2025, 5:35:39 PM OPTIONS request made to: /api/admins/login
+4/10/2025, 5:35:39 PM POST request made to: /api/admins/login
+4/10/2025, 5:36:22 PM Login attempt with details: Username: admin1 Password: password123
+4/10/2025, 5:35:39 PM POST request made to: /api/users/login
+4/10/2025, 5:36:23 PM Login attempt with details: Username: admin1 Password: password123
+4/10/2025, 5:35:39 PM POST request made to: /api/restaurants/login
+4/10/2025, 5:35:39 PM POST request made to: /api/admins/login
+4/10/2025, 5:36:23 PM Login attempt with details: Username: admin1 Password: password123
+4/10/2025, 5:35:39 PM POST request made to: /api/users/login
+4/10/2025, 5:36:27 PM Login attempt with details: Username: admin1 Password: password123
+4/10/2025, 5:35:39 PM POST request made to: /api/restaurants/login
+4/10/2025, 5:35:39 PM POST request made to: /api/admins/login
+4/10/2025, 5:36:27 PM Login attempt with details: Username: admin1 Password: password123
+4/10/2025, 5:36:31 PM OPTIONS request made to: /api/users/login
+4/10/2025, 5:36:31 PM POST request made to: /api/users/login
+4/10/2025, 5:36:32 PM Login attempt with details: Username: admin1 Password: password123
+4/10/2025, 5:36:31 PM OPTIONS request made to: /api/restaurants/login
+4/10/2025, 5:36:31 PM POST request made to: /api/restaurants/login
+4/10/2025, 5:36:31 PM OPTIONS request made to: /api/admins/login
+4/10/2025, 5:36:31 PM POST request made to: /api/admins/login
+4/10/2025, 5:36:32 PM Login attempt with details: Username: undefined Password: password123
+4/10/2025, 5:36:31 PM GET request made to: /api/restaurants
+4/10/2025, 5:36:31 PM GET request made to: /api/restaurants
+4/10/2025, 5:36:31 PM OPTIONS request made to: /api/users/logout
+4/10/2025, 5:36:31 PM POST request made to: /api/users/logout
+4/10/2025, 5:36:37 PM {"id":"67f78c75dd47f1a4556d5386","iat":1744277792,"exp":1744281392}
+4/10/2025, 5:36:37 PM GET request made to: /api/users/check-username/admin1
+4/10/2025, 5:36:37 PM OPTIONS request made to: /api/users/login
+4/10/2025, 5:36:37 PM POST request made to: /api/users/login
+4/10/2025, 5:36:48 PM Login attempt with details: Username: sushiLover Password: securePassword123
+4/10/2025, 5:36:37 PM OPTIONS request made to: /api/restaurants/login
+4/10/2025, 5:36:37 PM POST request made to: /api/restaurants/login
+4/10/2025, 5:36:37 PM OPTIONS request made to: /api/admins/login
+4/10/2025, 5:36:37 PM POST request made to: /api/admins/login
+4/10/2025, 5:36:48 PM Login attempt with details: Username: undefined Password: securePassword123
+4/10/2025, 5:36:37 PM OPTIONS request made to: /api/users/login
+4/10/2025, 5:36:37 PM POST request made to: /api/users/login
+4/10/2025, 5:39:04 PM Login attempt with details: Username: sushiLover Password: securePassword123
+4/10/2025, 5:36:37 PM OPTIONS request made to: /api/restaurants/login
+4/10/2025, 5:36:37 PM POST request made to: /api/restaurants/login
+4/10/2025, 5:36:37 PM OPTIONS request made to: /api/admins/login
+4/10/2025, 5:36:37 PM POST request made to: /api/admins/login
+4/10/2025, 5:39:04 PM Login attempt with details: Username: undefined Password: securePassword123
+4/10/2025, 5:36:37 PM POST request made to: /api/users/login
+4/10/2025, 5:39:07 PM Login attempt with details: Username: sushiLover Password: securepassword123
+4/10/2025, 5:36:37 PM POST request made to: /api/restaurants/login
+4/10/2025, 5:36:37 PM POST request made to: /api/admins/login
+4/10/2025, 5:39:08 PM Login attempt with details: Username: undefined Password: securepassword123
+4/10/2025, 5:36:37 PM OPTIONS request made to: /api/users/login
+4/10/2025, 5:36:37 PM POST request made to: /api/users/login
+4/10/2025, 5:40:50 PM Login attempt with details: Username: sushiLover Password: securepassword123
+4/10/2025, 5:36:37 PM OPTIONS request made to: /api/restaurants/login
+4/10/2025, 5:36:37 PM POST request made to: /api/restaurants/login
+4/10/2025, 5:36:37 PM OPTIONS request made to: /api/admins/login
+4/10/2025, 5:36:37 PM POST request made to: /api/admins/login
+4/10/2025, 5:40:50 PM Login attempt with details: Username: undefined Password: securepassword123
+4/10/2025, 5:40:54 PM OPTIONS request made to: /api/users/login
+4/10/2025, 5:40:54 PM POST request made to: /api/users/login
+4/10/2025, 5:41:01 PM Login attempt with details: Username: sushiLover Password: securePassword2
+4/10/2025, 5:40:54 PM OPTIONS request made to: /api/restaurants/login
+4/10/2025, 5:40:54 PM POST request made to: /api/restaurants/login
+4/10/2025, 5:41:01 PM Login attempt with details: Username: sushiLover Password: securePassword2
+4/10/2025, 5:40:54 PM OPTIONS request made to: /api/admins/login
+4/10/2025, 5:40:54 PM POST request made to: /api/admins/login
+4/10/2025, 5:41:01 PM Login attempt with details: Username: undefined Password: securePassword2
+4/10/2025, 5:40:54 PM POST request made to: /api/users/login
+4/10/2025, 5:41:02 PM Login attempt with details: Username: sushiLover Password: securePassword2
+4/10/2025, 5:40:54 PM POST request made to: /api/restaurants/login
+4/10/2025, 5:41:02 PM Login attempt with details: Username: sushiLover Password: securePassword2
+4/10/2025, 5:40:54 PM POST request made to: /api/admins/login
+4/10/2025, 5:41:03 PM Login attempt with details: Username: undefined Password: securePassword2
+4/10/2025, 5:40:54 PM OPTIONS request made to: /api/users/login
+4/10/2025, 5:40:54 PM POST request made to: /api/users/login
+4/10/2025, 5:41:29 PM Login attempt with details: Username: sushiFan Password: securePassword2
+4/10/2025, 5:40:54 PM OPTIONS request made to: /api/restaurants/login
+4/10/2025, 5:40:54 PM POST request made to: /api/restaurants/login
+4/10/2025, 5:41:29 PM Login attempt with details: Username: sushiFan Password: securePassword2
+4/10/2025, 5:40:54 PM GET request made to: /api/restaurants/67f78c75dd47f1a4556d537c
+4/10/2025, 5:40:54 PM GET request made to: /undefined
+4/10/2025, 5:40:54 PM GET request made to: /api/restaurants/67f78c75dd47f1a4556d537c
+4/10/2025, 5:40:54 PM GET request made to: /uploads/media/dummy-image.jpg
+4/10/2025, 5:40:54 PM OPTIONS request made to: /api/users/logout
+4/10/2025, 5:40:54 PM POST request made to: /api/users/logout
+4/10/2025, 5:41:34 PM {"id":"67f78c75dd47f1a4556d537c","username":"Sushi Central","iat":1744278089,"exp":1744281689}
+4/10/2025, 5:41:34 PM GET request made to: /api/users/check-username/admin1
+4/10/2025, 5:41:34 PM OPTIONS request made to: /api/users/login
+4/10/2025, 5:41:34 PM POST request made to: /api/users/login
+4/10/2025, 5:41:35 PM Login attempt with details: Username: admin1 Password: password123
+4/10/2025, 5:41:34 PM OPTIONS request made to: /api/restaurants/login
+4/10/2025, 5:41:34 PM POST request made to: /api/restaurants/login
+4/10/2025, 5:41:35 PM Login attempt with details: Username: admin1 Password: password123
+4/10/2025, 5:41:34 PM OPTIONS request made to: /api/admins/login
+4/10/2025, 5:41:34 PM POST request made to: /api/admins/login
+4/10/2025, 5:41:35 PM Login attempt with details: Username: undefined Password: password123
+4/10/2025, 5:41:34 PM GET request made to: /api/restaurants
+4/10/2025, 5:41:34 PM GET request made to: /api/restaurants
+4/10/2025, 5:41:34 PM POST request made to: /api/users/logout
+4/10/2025, 5:41:38 PM {"id":"67f78c75dd47f1a4556d5386","iat":1744278095,"exp":1744281695}
+4/10/2025, 5:41:38 PM GET request made to: /api/users/check-username/admin1
+4/10/2025, 5:41:38 PM OPTIONS request made to: /api/users/login
+4/10/2025, 5:41:38 PM POST request made to: /api/users/login
+4/10/2025, 5:41:46 PM Login attempt with details: Username: sushiFan Password: securePassword2
+4/10/2025, 5:41:38 PM OPTIONS request made to: /api/restaurants/login
+4/10/2025, 5:41:38 PM POST request made to: /api/restaurants/login
+4/10/2025, 5:41:47 PM Login attempt with details: Username: sushiFan Password: securePassword2
+4/10/2025, 5:41:38 PM GET request made to: /api/restaurants/67f78c75dd47f1a4556d537c
+4/10/2025, 5:41:38 PM GET request made to: /undefined
+4/10/2025, 5:41:38 PM GET request made to: /api/restaurants/67f78c75dd47f1a4556d537c
+4/10/2025, 5:41:38 PM GET request made to: /api/restaurants
+4/10/2025, 5:41:38 PM GET request made to: /api/restaurants
+4/10/2025, 5:41:38 PM GET request made to: /api/restaurants/67f78c75dd47f1a4556d537b
+4/10/2025, 5:41:38 PM GET request made to: /undefined
+4/10/2025, 5:41:38 PM GET request made to: /api/restaurants/67f78c75dd47f1a4556d537b
