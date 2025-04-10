@@ -51,7 +51,7 @@ const EditProfile = ({ user, isEditDialogOpen, setIsEditDialogOpen, setUserData 
 
         const passAge = new Date(user.passAge).getTime();
         //comment out during demo
-        if (Date.now() - passAge < 86400000) {
+        if (user.newPassword && Date.now() - passAge < 86400000) {
             setError('Password must be 1 day old before changing.')
         } else if (user.newPassword.length > 0 && user.newPassword.length < 8) {
             setError('Password must be at least 8 characters.')
