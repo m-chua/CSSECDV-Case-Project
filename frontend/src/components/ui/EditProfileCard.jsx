@@ -29,6 +29,7 @@ const EditProfile = ({ user, isEditDialogOpen, setIsEditDialogOpen, setUserData 
                 try {
                     const response = await fetch(`http://localhost:5000/api/users/check-username/${user.newUsername}`)
                     const data = await response.json()
+                    console.log("HEREHEREHERE" + data)
                     setUsernameExists(data.exists)
                 } catch (error) {
                     console.error('Error checking username:', error)
@@ -47,7 +48,7 @@ const EditProfile = ({ user, isEditDialogOpen, setIsEditDialogOpen, setUserData 
         // console.log(user.newPassword)
         if (user.newPassword.length > 0 && user.newPassword.length < 8) {
             setError('Password must be at least 8 characters.')
-        }else if (formData.password && !(/[a-zA-Z]/.test(formData.password) && /[0-9]/.test(formData.password))) {
+        }else if (user.newPassword && !(/[a-zA-Z]/.test(user.newPassword) && /[0-9]/.test(user.newPassword))) {
             setError('Passwords should contain both numbers and letters.')//'Passwords should contain both numbers and letters.'
         } else if (user.newPassword !== user.confirmPassword) {
             setError('Passwords do not match.')
