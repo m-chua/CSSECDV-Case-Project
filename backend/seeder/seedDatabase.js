@@ -9,6 +9,7 @@ const Admin = require('../models/admin')
 const { restaurants, reviews, responses, users, admins } = require('./dummyData')
 
 const hashPasswords = async (entities) => {
+    //console.log(entities)
     return await Promise.all(
         entities.map(async (entity) => {
             if (entity.password) {

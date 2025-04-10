@@ -35,8 +35,7 @@ const restaurants = [
         
         amenities: [1, 3],
         username: 'sushiFan',
-        password: 'securePassword2',
-        passwordAge:  4/10/2025
+        password: 'securePassword2'
     },
     {
         name: 'Burger Bliss',
@@ -54,8 +53,7 @@ const restaurants = [
         
         amenities: [2, 4],
         username: 'burgerGuy',
-        password: 'securePassword3',
-        passwordAge:  4/10/2025
+        password: 'securePassword3'
     },
     {
         name: 'Taco Town',
@@ -73,8 +71,7 @@ const restaurants = [
         
         amenities: [1, 3],
         username: 'tacoMaster',
-        password: 'securePassword4',
-        passwordAge:  4/10/2025
+        password: 'securePassword4'
     },
     {
         name: 'Curry Kingdom',
@@ -92,8 +89,7 @@ const restaurants = [
         
         amenities: [2, 5],
         username: 'curryQueen',
-        password: 'securePassword5',
-        passwordAge:  4/10/2025
+        password: 'securePassword5'
     },
     {
         name: 'Choco Delight',
@@ -110,8 +106,7 @@ const restaurants = [
      
         amenities: [1],
         username: 'dessertLover',
-        password: 'securePassword6',
-        passwordAge:  4/10/2025
+        password: 'securePassword6'
     },
     {
         name: 'Grill Masters',
@@ -128,8 +123,7 @@ const restaurants = [
      
         amenities: [2, 3],
         username: 'grillKing',
-        password: 'securePassword7',
-        passwordAge:  4/10/2025
+        password: 'securePassword7'
     },
     {
         name: 'Veggie Delight',
@@ -146,8 +140,7 @@ const restaurants = [
      
         amenities: [1, 4],
         username: 'veggieLover',
-        password: 'securePassword8',
-        passwordAge:  4/10/2025
+        password: 'securePassword8'
     },
     {
         name: 'Seafood Shack',
@@ -165,8 +158,7 @@ const restaurants = [
         
         amenities: [2, 3],
         username: 'seafoodFan',
-        password: 'securePassword9',
-        passwordAge:  4/10/2025
+        password: 'securePassword9'
     },
     {
         name: 'Coffee Haven',
@@ -211,14 +203,12 @@ const admins = [
     {
         username: 'admin1',
         password: 'password123',
-        avatar: 'uploads/admin/logo.png',
-        passwordAge:  4/10/2025// will surely fail to test Avatar Fallbacks
+        avatar: 'uploads/admin/logo.png'
     },
     {
         username: 'admin2',
         password: 'password123',
-        avatar: 'uploads/admin/logo.png',
-        passwordAge:  4/10/2025
+        avatar: 'uploads/admin/logo.png'
     }
 ]
 

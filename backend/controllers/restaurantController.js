@@ -1,5 +1,6 @@
 // controllers/restaurantController.js
 
+const Restaurant = require('../models/Restaurant')
 const restaurantService = require('../services/restaurantService')
 
 
@@ -103,11 +104,40 @@ const loginRestaurantUser = async (req, res, next) => {
                 // Handle error appropriately
             }
         });
-        console.log(output)
-       
         if (!restaurantUser) {
-            return res.status(401).json({ message: 'Invalid credentials' })
+            temp = await Restaurant.findOne({ username })
+                        
+                console.log("invalid attempt")
+            if(temp){
+                            
+                temp.attemptsSinceLastLogin = temp.attemptsSinceLastLogin + 1
+                console.log(temp)
+                if(temp.attemptsSinceLastLogin>=5){
+                    currentDate = new Date(); // Current date/time
+                    futureDate = new Date(currentDate);
+                    futureDate.setDate(currentDate.getDate() + 5);
+            
+                    temp.attemptsSinceLastLogin = 0
+                    temp.accDisable = futureDate
+                }
+                restaurantService.updateRestaurant(temp.id, temp)
+            }
+                        
+            return res.status(401).json({ message: 'Invalid credentials. Please try again.' })
         }
+
+         //account disable
+                if(restaurantUser.accDisable!=null){
+                    
+                    currentDate = new Date(); 
+                    if(restaurantUser.accDisable < currentDate){
+                        restaurantUser.accDisable = null
+                        restaurantUser.updateRestaurant(restaurantUser.id, restaurantUser)
+                    }else {
+                        return res.status(401).json({ message: 'Too many inavlid attempts. Account disabled. Try again in 5 days.' })
+                        
+                    }
+                }
 
         const token = await restaurantService.generateToken(restaurantUser)
         res.json({ token, userId: restaurantUser.id })

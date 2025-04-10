@@ -1,4 +1,5 @@
 const review = require('../models/Review')
+const Admin = require('../models/admin')
 const adminService = require('../services/adminService.js')
 
 const extractFilePath = (filePath) => {
@@ -37,9 +38,39 @@ const loginAdmin = async (req, res, next) => {
         console.log(output)
         
         if (!admin) {
+            temp = await Admin.findOne({ username })
+                        
+            if(temp){
+                            
+                console.log("invalid attempt")
+                temp.attemptsSinceLastLogin = temp.attemptsSinceLastLogin + 1
+                console.log(temp)
+                if(temp.attemptsSinceLastLogin>=5){
+                    currentDate = new Date(); // Current date/time
+                    futureDate = new Date(currentDate);
+                    futureDate.setDate(currentDate.getDate() + 5);
+            
+                    temp.attemptsSinceLastLogin = 0
+                    temp.accDisable = futureDate
+                }
+                adminService.updateAdmin(temp.id, temp)
+            }
+                        
             return res.status(401).json({ message: 'Invalid credentials' })
         }
 
+         //account disable
+         if(admin.accDisable!=null){
+            
+            currentDate = new Date(); 
+            if(admin.accDisable < currentDate){
+                admin.accDisable = null
+                adminService.updateAdmin(admin.id, admin)
+            }else {
+                return res.status(401).json({ message: 'Too many inavlid attempts. Account disabled. Try again in 5 days.' })
+                
+            }
+        }
         const token = await adminService.generateToken(admin)
         res.json({ token, adminId: admin.id })
     } catch (error) {

@@ -49,19 +49,27 @@ const LoginForm = ({ isFlipped, setIsFlipped }) => {
         setError('')
         try {
             let response = await triggerLogin('http://localhost:5000/api/users/login')
-
+            let errorData = await response.json();
+            console.log(errorData.message); // Access the message
+            if(errorData.message == "Too many inavlid attempts. Account disabled. Try again in 5 days."){throw new Error(errorData.message);}
 
             if (!response.ok) {
-                response = await triggerLogin('http://localhost:5000/api/restaurants/login')
-                
-                if (!response.ok) {
-                    response = await triggerLogin('http://localhost:5000/api/admins/login')
-                    
-                    if(!response.ok){
-                        const data = await response.json()
-                        throw new Error(data.message || 'Login failed')           
+                let response2 = await triggerLogin('http://localhost:5000/api/restaurants/login')
+                errorData = await response2.json();
+                console.log(errorData.message); // Access the message
+                if(errorData.message == "Too many inavlid attempts. Account disabled. Try again in 5 days."){ throw new Error(errorData.message);}
+
+                if (!response2.ok) {
+                    let response3 = await triggerLogin('http://localhost:5000/api/admins/login')
+                     errorData = await response3.json();
+                console.log(errorData.message); // Access the message
+                if(errorData.message == "Too many inavlid attempts. Account disabled. Try again in 5 days."){throw new Error(errorData.message);}
+
+                    if(!response3.ok){
+                        //const data = await response3.json()
+                        throw new Error(errorData.message || 'Login failed')           
                     } else {
-                        const data = await response.json()
+                        const data = errorData//await response.json()
     
                         localStorage.setItem('token', data.token)
                         localStorage.setItem('adminId', data.userId)      
@@ -69,14 +77,14 @@ const LoginForm = ({ isFlipped, setIsFlipped }) => {
                         navigate('/')
                     }
                 } else {
-                    const data = await response.json()
+                    const data = errorData//await response.json()
     
                     localStorage.setItem('token', data.token)
                     localStorage.setItem('adminId', data.userId)      
                     navigate(`/restaurants/${data.userId}`)        
                 }
             } else {
-                const data = await response.json()
+                const data = errorData//await response.json()
 
                 localStorage.setItem('token', data.token)
                 localStorage.setItem('userId', data.userId)
@@ -112,8 +120,8 @@ const LoginForm = ({ isFlipped, setIsFlipped }) => {
                                 <CircleIcon className='h-5 w-5 text-red-400' />
                             </div>
                             <div className='ml-3'>
-                                <h3 className='text-sm font-medium'>Incorrect username or password</h3>
-                                <div className='mt-2 text-sm'>Please check your username and password and try again.</div>
+                                <h3 className='text-sm font-medium'>Unable to login</h3>
+                                <div className='mt-2 text-sm'> {error}</div>
                             </div>
                         </div>
                     </div>
