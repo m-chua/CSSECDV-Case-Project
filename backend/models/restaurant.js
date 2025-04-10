@@ -20,7 +20,11 @@ const restaurantSchema = new Schema({
     reviews: [{ type: Schema.Types.ObjectId, ref: 'Review', default: [] }],
     username: { type: String, required: true, unique: true },
     password: { type: String, required: true },
-    passwordAge: { type: Date, default: Date.now }
+    passwordAge: { type: Date, default: Date.now },
+
+    
+    attemptsSinceLastLogin: {type: Number, default:0},
+    accDisable: { type: Date, default: null }
 })
 
 restaurantSchema.methods.comparePassword = async function (candidatePassword) {

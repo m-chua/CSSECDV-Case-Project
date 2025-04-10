@@ -10,7 +10,10 @@ const userSchema = new Schema({
     avatar: { type: String, default: 'default-avatar-url.png' },
     bio: { type: String },
     createdAt: { type: Date, default: Date.now },
-    reviews: [{ type: Schema.Types.ObjectId, ref: 'Review', default: [] }]
+    reviews: [{ type: Schema.Types.ObjectId, ref: 'Review', default: [] }],
+
+    attemptsSinceLastLogin: {type: Number, default:0},
+    accDisable: { type: Date, default: null }
 })
 
 userSchema.methods.comparePassword = async function (candidatePassword) {

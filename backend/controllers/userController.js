@@ -1,4 +1,5 @@
 const review = require('../models/Review')
+const User = require('../models/User')
 const userService = require('../services/userService.js')
 
 const extractFilePath = (filePath) => {
@@ -37,11 +38,43 @@ const loginUser = async (req, res, next) => {
         });
         console.log(output)
         if (!user) {
-            return res.status(401).json({ message: 'Invalid credentials' })
+            temp = await User.findOne({ username })
+            
+            if(temp){
+                
+                console.log("invalid attempt")
+                temp.attemptsSinceLastLogin = temp.attemptsSinceLastLogin + 1
+                console.log(temp)
+                if(temp.attemptsSinceLastLogin>=5){
+                    currentDate = new Date(); // Current date/time
+                    futureDate = new Date(currentDate);
+                    futureDate.setDate(currentDate.getDate() + 5);
+
+                    temp.attemptsSinceLastLogin = 0
+                    temp.accDisable = futureDate
+                }
+                userService.updateUser(temp.id, temp)
+            }
+            
+            return res.status(401).json({ message: 'Invalid credentials. Please try again.' })
         }
 
+        //account disable
+        if(user.accDisable!=null){
+            
+            currentDate = new Date(); 
+            if(user.accDisable < currentDate){
+                user.accDisable = null
+                userService.updateUser(user.id, user)
+            }else {
+                return res.status(401).json({ message: 'Too many inavlid attempts. Account disabled. Try again in 5 days.' })
+                
+            }
+        }
+        //token
         const token = await userService.generateToken(user)
-        res.json({ token, userId: user.id })
+        return res.json({ token, userId: user.id })
+        
     } catch (error) {
         next(error)
     }
