@@ -51,8 +51,11 @@ const UserProfile = () => {
             if (!response.ok) {
                 throw new Error('Failed to fetch user data')
             }
-
             const data = await response.json()
+
+            //testing purposes
+            //console.log('Received data:', data);
+
             data['avatarUrl'] = `http://localhost:5000/${data['avatar']}`
             data['newAvatarUrl'] = `http://localhost:5000/${data['avatar']}`
             data['newUsername'] = data['username']

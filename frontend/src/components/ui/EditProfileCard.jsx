@@ -46,9 +46,16 @@ const EditProfile = ({ user, isEditDialogOpen, setIsEditDialogOpen, setUserData 
             return
         }
         // console.log(user.newPassword)
-        if (user.newPassword.length > 0 && user.newPassword.length < 8) {
+        // console.log(user.passAge);
+        // console.log(Date.now());
+
+        const passAge = new Date(user.passAge).getTime();
+        //comment out during demo
+        if (Date.now() - passAge < 86400000) {
+            setError('Password must be 1 day old before changing.')
+        } else if (user.newPassword.length > 0 && user.newPassword.length < 8) {
             setError('Password must be at least 8 characters.')
-        }else if (user.newPassword && !(/[a-zA-Z]/.test(user.newPassword) && /[0-9]/.test(user.newPassword))) {
+        } else if (user.newPassword && !(/[a-zA-Z]/.test(user.newPassword) && /[0-9]/.test(user.newPassword))) {
             setError('Passwords should contain both numbers and letters.')//'Passwords should contain both numbers and letters.'
         } else if (user.newPassword !== user.confirmPassword) {
             setError('Passwords do not match.')

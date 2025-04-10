@@ -70,6 +70,7 @@ const getUser = async (req, res, next) => {
             bio: user.bio,
             avatar: user.avatar,
             cuisines: user.cuisines,
+            passwordAge: user.passwordAge,
             memberSince,
             averageRating,
             reviews
