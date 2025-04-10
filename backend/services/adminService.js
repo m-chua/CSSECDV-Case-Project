@@ -24,7 +24,7 @@ const getAdminById = async (id) => {
 const updateAdmin = async (id, data) => {
     // update the password only when correct and needed
     if (data.newPassword) {
-        const isPassCorrect = await authenticateAdmin(data.oldAdminname, data.password)
+        const isPassCorrect = await authenticateAdmin(data.oldUsername, data.password)
 
         if (isPassCorrect) {
             data.password = await bcrypt.hash(data.newPassword, 10)
@@ -43,11 +43,11 @@ const deleteAdmin = async (id) => {
 }
 
 const generateToken = (admin) => {
-    return jwt.sign({ id: admin._id, adminname: admin.adminname }, process.env.JWT_SECRET, { expiresIn: '1h' })
+    return jwt.sign({ id: admin._id, username: admin.username }, process.env.JWT_SECRET, { expiresIn: '1h' })
 }
 
-const authenticateAdmin = async (adminname, password) => {
-    const admin = await Admin.findOne({ adminname })
+const authenticateAdmin = async (username, password) => {
+    const admin = await Admin.findOne({ username })
 
     if (!admin) {
         return null
@@ -74,8 +74,8 @@ const isTokenBlacklisted = (token) => {
     return tokenBlacklist.includes(token)
 }
 
-const checkAdminname = async (adminname) => {
-    return await Admin.findOne({ adminname })
+const checkUsername = async (username) => {
+    return await Admin.findOne({ username })
 }
 
 const deleteReviewFromAdmin = async (adminId, reviewId) => {
@@ -111,7 +111,7 @@ module.exports = {
     authenticateAdmin,
     logoutAdmin,
     isTokenBlacklisted,
-    checkAdminname,
+    checkUsername,
     checkTokenValidity,
     deleteReviewFromAdmin,
     addReviewToAdmin

@@ -24,6 +24,6 @@ router.get('/:id', authMiddleware, adminController.getAdmin) // Protected route 
 router.put('/:id', authMiddleware, avatarUpload.single('admin'), adminController.updateAdmin) // Protected route to update admin data
 router.delete('/:id', authMiddleware, adminController.deleteAdmin) // Protected route to delete admin
 router.post('/logout', authMiddleware, adminController.logoutAdmin) // Protected route to logout admin
-router.get('/check-adminname/:adminname', adminController.checkAdminname)
+router.get('/check-username/:username', adminController.checkUsername)
 router.post('/checkToken', adminController.checkToken)
 module.exports = router

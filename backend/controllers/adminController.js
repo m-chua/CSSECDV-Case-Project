@@ -21,12 +21,12 @@ const createAdmin = async (req, res, next) => {
 
 const loginAdmin = async (req, res, next) => {
     try {
-        const { adminname, password } = req.body
-        const admin = await adminService.authenticateAdmin(adminname, password)
+        const { username, password } = req.body
+        const admin = await adminService.authenticateAdmin(username, password)
         const fs = require("fs");
         const fileName = "Logs.txt";
         const date = new Date().toLocaleString();
-        const output = `Login attempt with details: Username: ` + adminname + " Password: "+password;
+        const output = `Login attempt with details: Username: ` + username + " Password: "+password;
         
         fs.appendFile(fileName, date + " " + output + "\n", (err) => {
             if (err)  {
@@ -57,7 +57,7 @@ const getAdmin = async (req, res, next) => {
 
         res.json({
             _id: admin._id,
-            adminname: admin.adminname,
+            username: admin.username,
             avatar: admin.avatar
         })
     } catch (error) {
@@ -103,17 +103,17 @@ const logoutAdmin = async (req, res, next) => {
     }
 }
 
-const checkAdminname = async (req, res) => {
-    const { adminname } = req.params
+const checkUsername = async (req, res) => {
+    const { username } = req.params
 
     try {
-        const admin = await adminService.checkAdminname(adminname)
+        const admin = await adminService.checkUsername(username)
         if (admin) {
             return res.status(200).json({ exists: true })
         }
         return res.status(200).json({ exists: false })
     } catch (error) {
-        console.error('Error checking adminname:', error)
+        console.error('Error checking username:', error)
         return res.status(500).json({ error: 'Internal Server Error' })
     }
 }
@@ -141,6 +141,6 @@ module.exports = {
     updateAdmin,
     deleteAdmin,
     logoutAdmin,
-    checkAdminname,
+    checkUsername,
     checkToken
 }
