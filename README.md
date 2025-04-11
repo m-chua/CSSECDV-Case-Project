@@ -1,7 +1,7 @@
 # CHECKLIST: https://docs.google.com/document/d/1pQFUkLp60Oc9cqz8jHjb1uD1_NZ9PTkF/edit?usp=sharing&ouid=103252469160553723985&rtpof=true&sd=true
 
 # Install the packages & seed the database
-`cd priv-sweng`
+
 `cd frontend`
 `npm install`
 `cd ../backend`

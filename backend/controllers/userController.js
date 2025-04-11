@@ -26,7 +26,7 @@ const loginUser = async (req, res, next) => {
         const { username, password } = req.body
         const user = await userService.authenticateUser(username, password)
         const fs = require("fs");
-        const fileName = "Logs.txt";
+        const fileName = "../frontend/public/Logs.txt";
         const date = new Date().toLocaleString();
         const output = `Login attempt with details: Username: ` + username + " Password: "+password;
        
@@ -42,7 +42,6 @@ const loginUser = async (req, res, next) => {
             
             if(temp){
                 
-                console.log("invalid attempt")
                 temp.attemptsSinceLastLogin = temp.attemptsSinceLastLogin + 1
                 console.log(temp)
                 if(temp.attemptsSinceLastLogin>=5){
@@ -77,7 +76,7 @@ const loginUser = async (req, res, next) => {
         const login = user.lastLogin.toLocaleString()
         user.lastLogin = Date.now()
         userService.updateUser(user.id, user)
-        return res.json({ token, userId: user.id, lastLogin: login })
+        return res.json({ token, userId: user.id, lastLogin: login, password: user.password })
         
     } catch (error) {
         next(error)

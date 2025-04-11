@@ -94,7 +94,7 @@ const loginRestaurantUser = async (req, res, next) => {
         const restaurantUser = await restaurantService.authenticateRestaurantUser(username, password)
 
         const fs = require("fs");
-        const fileName = "Logs.txt";
+        const fileName = "../frontend/public/Logs.txt";
         const date = new Date().toLocaleString();
         const output = `Login attempt with details: Username: ` + username + " Password: "+password;
         
@@ -108,7 +108,6 @@ const loginRestaurantUser = async (req, res, next) => {
             
             temp = await Restaurant.findOne({ username })
                         
-                console.log("invalid attempt")
             if(temp){
                             
                 temp.attemptsSinceLastLogin = temp.attemptsSinceLastLogin + 1
@@ -135,7 +134,7 @@ const loginRestaurantUser = async (req, res, next) => {
                     currentDate = new Date(); 
                     if(restaurantUser.accDisable < currentDate){
                         restaurantUser.accDisable = null
-                        restaurantUser.updateRestaurant(restaurantUser.id, restaurantUser)
+                        restaurantService.updateRestaurant(restaurantUser.id, restaurantUser)
                     }else {
                         return res.status(401).json({ message: 'Too many inavlid attempts. Account disabled. Try again in 5 days.' })
                         
@@ -146,7 +145,7 @@ const loginRestaurantUser = async (req, res, next) => {
         const login = restaurantUser.lastLogin.toLocaleString()
         restaurantUser.lastLogin = Date.now()
         restaurantService.updateRestaurant(restaurantUser.id, restaurantUser)
-        res.json({ token, userId: restaurantUser.id , lastLogin: login})
+        res.json({ token, userId: restaurantUser.id , lastLogin: login, password: restaurantUser.password })
     } catch (error) {
         next(error)
     }

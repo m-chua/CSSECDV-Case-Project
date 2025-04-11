@@ -9,7 +9,7 @@ const path = require('path')
 const fs = require('fs')
 
 const app = express()
-const fileName = "Logs.txt";
+const fileName = "../frontend/public/Logs.txt";
 date = new Date().toLocaleString();
       
 app.use((req, res, next) => {

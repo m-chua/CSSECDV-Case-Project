@@ -9,7 +9,7 @@ import UserProfile from './components/ViewProfile';
 import RestaurantAuth from './components/RestaurantAuth';
 import RestaurantRegistration from './components/RestaurantRegistration';
 import About from './components/About';
-
+import Logs from './components/Logs';
 function App() {
     return (
         <Router>
@@ -25,6 +25,9 @@ function App() {
                                 <Route path="/" element={<Home />} />
                                 <Route path="/login" element={<AuthForm />} />
                                 <Route path="/search" element={<SearchResult />} />
+                                
+                                <Route path="/logs" element={<Logs />} />
+
                                 <Route path="/profile" element={<UserProfile />} />
                                 <Route path="/restaurant-register" element={<RestaurantRegistration />} />
                                 <Route path="/about" element={<About />} />

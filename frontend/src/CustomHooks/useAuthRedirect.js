@@ -23,8 +23,20 @@ const useAuthRedirect = (redirectPath = '/') => {
                 })
 
                 if (response.status === 401) {
+
+                    const response2 = await fetch('http://localhost:5000/api/admins/checkToken', {
+                        method: 'POST',
+                        headers: {
+                            'Authorization': `Bearer ${token}`,
+                        },
+                    })
+                    if (response2.status === 401){
                     localStorage.removeItem('token')
                     navigate('/login')
+                    }else {
+                        const data = await response2.json()
+                        console.log(data.message)
+                    }
                 } else {
                     const data = await response.json()
                     console.log(data.message)

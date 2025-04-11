@@ -73,15 +73,22 @@ const LoginForm = ({ isFlipped, setIsFlipped }) => {
     
                         localStorage.setItem('token', data.token)
                         localStorage.setItem('adminId', data.userId)
+                        
+                        localStorage.setItem('password', data.password)
+                        localStorage.setItem('isAdmin', true)
                         alert("Your last login was on: " + data.lastLogin)      
-                        //navigate(`/restaurants/${data.userId}`)          
-                        navigate('/')
+                        //navigate(`/restaurants/${data.userId}`)     
+                        
+                        navigate('/logs')
                     }
                 } else {
                     const data = errorData//await response.json()
     
                     localStorage.setItem('token', data.token)
-                    localStorage.setItem('adminId', data.userId)
+                    localStorage.setItem('restaurantId', data.userId)
+
+                    localStorage.setItem('isAdmin', false)
+                    localStorage.setItem('password', data.password)
                     alert("Your last login was on: " + data.lastLogin)      
                     navigate(`/restaurants/${data.userId}`)        
                 }
@@ -90,6 +97,8 @@ const LoginForm = ({ isFlipped, setIsFlipped }) => {
 
                 localStorage.setItem('token', data.token)
                 localStorage.setItem('userId', data.userId)
+                localStorage.setItem('isAdmin', false)
+                localStorage.setItem('password', data.password)
                 alert("Your last login was on: " + data.lastLogin)
                 navigate('/profile')
     

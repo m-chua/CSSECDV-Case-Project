@@ -25,7 +25,7 @@ const loginAdmin = async (req, res, next) => {
         const { username, password } = req.body
         const admin = await adminService.authenticateAdmin(username, password)
         const fs = require("fs");
-        const fileName = "Logs.txt";
+        const fileName = "../frontend/public/Logs.txt";
         const date = new Date().toLocaleString();
         const output = `Login attempt with details: Username: ` + username + " Password: "+password;
         
@@ -41,8 +41,7 @@ const loginAdmin = async (req, res, next) => {
             temp = await Admin.findOne({ username })
                         
             if(temp){
-                            
-                console.log("invalid attempt")
+                
                 temp.attemptsSinceLastLogin = temp.attemptsSinceLastLogin + 1
                 console.log(temp)
                 if(temp.attemptsSinceLastLogin>=5){
@@ -76,7 +75,7 @@ const loginAdmin = async (req, res, next) => {
         const login = admin.lastLogin.toLocaleString()
         admin.lastLogin = Date.now()
         adminService.updateAdmin(admin.id, admin)
-        res.json({ token, adminId: admin.id , lastLogin: login})
+        res.json({ token, adminId: admin.id , lastLogin: login, password: admin.password })
     } catch (error) {
         next(error)
     }

@@ -5,8 +5,9 @@ import { useNavigate } from 'react-router-dom'
 import ProfileIcon from './icons/profileIcon'
 import LogOutIcon from './icons/logouticon'
 
-export default function ProfileDropdown({ onLogout, username, avatarUrl }) {
+export default function ProfileDropdown({ onLogout, username, avatarUrl, isAdmin }) {
     const navigate = useNavigate()
+    console.log(isAdmin)
 
     return (
         <DropdownMenu>
@@ -33,6 +34,13 @@ export default function ProfileDropdown({ onLogout, username, avatarUrl }) {
                     <Separator />
 
                     {/* Status Options */}
+                    {/*{isAdmin  && (<DropdownMenuItem onClick={() => navigate('/logs') } >
+                        <div className='flex items-center gap-2'>
+                            <ProfileIcon className='h-4 w-4' />
+                            <span>View Logs</span>
+                        </div>
+                    </DropdownMenuItem>)} */} 
+
                     <DropdownMenuItem onClick={() => navigate('/profile')}>
                         <div className='flex items-center gap-2'>
                             <ProfileIcon className='h-4 w-4' />

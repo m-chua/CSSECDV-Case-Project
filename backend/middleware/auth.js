@@ -1,9 +1,10 @@
 const jwt = require('jsonwebtoken')
 const userService = require('../services/userService')
+const adminService = require('../services/adminService')
 const fs = require('fs')
 
 
-const fileName = "Logs.txt";
+const fileName = "../frontend/public/Logs.txt";
 
 const authMiddleware = (req, res, next) => {
     const token = req.headers.authorization ? req.headers.authorization.split(' ')[1] : null
@@ -12,7 +13,9 @@ const authMiddleware = (req, res, next) => {
     if (userService.isTokenBlacklisted(token)) {
         return res.status(401).json({ message: 'Token is invalidated' })
     }
-
+    if (adminService.isTokenBlacklisted(token)) {
+        return res.status(401).json({ message: 'Token is invalidated' })
+    }
     try {
         const decoded = jwt.verify(token, process.env.JWT_SECRET)
         req.user = decoded

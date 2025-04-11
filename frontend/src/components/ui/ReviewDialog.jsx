@@ -72,53 +72,70 @@ const ReviewDialog = ({
       return;
     }
 
-    const formData = new FormData();
-    formData.append('title', editedReview.title);
-    formData.append('rating', editedReview.rating);
-    formData.append('review', editedReview.review);
-
+    let looper=true
+    //let pass = localStorage.getItem("password")
+    //console.log(pass)
+    while(looper){
+    let passwordConfirm = prompt("Please enter your password to confirm. Type \"Cancel\" to cancel.")
+    if(passwordConfirm == "Cancel"){
+      looper=false
+    }
+    else if("password123"!=passwordConfirm){
+      
+      alert("Password incorrect. Please try again")
+    }
+    else{
+      looper=false
+      const formData = new FormData();
+      formData.append('title', editedReview.title);
+      formData.append('rating', editedReview.rating);
+      formData.append('review', editedReview.review);
   
     
-    images.forEach((image) => {
-      if (image.file) {
-        formData.append('media', image.file);  // Always append files individually to 'media'
-      } else {
-        formData.append('existingMedia', image);  // Always append URLs individually to 'existingMedia'
-      }
-    });
-  
-    // Log the form data (optional)
-    for (let [key, value] of formData.entries()) {
-      console.log(`${key}:`, value);
-    }
-  
-    try {
-      const response = await fetch(
-        dialogType === 'edit'
-          ? `http://localhost:5000/api/reviews/${review._id}`
-          : `http://localhost:5000/api/reviews/${restaurantId}`,
-        {
-          method: dialogType === 'edit' ? 'PUT' : 'POST',
-          headers: {
-            'Authorization': `Bearer ${localStorage.getItem('token')}`,
-          },
-          body: formData,
+      
+      images.forEach((image) => {
+        if (image.file) {
+          formData.append('media', image.file);  // Always append files individually to 'media'
+        } else {
+          formData.append('existingMedia', image);  // Always append URLs individually to 'existingMedia'
         }
-      );
-  
-      if (!response.ok) {
-        const errorData = await response.json();
-        alert(errorData.message || 'Something went wrong');
-        return;
+      });
+    
+      // Log the form data (optional)
+      for (let [key, value] of formData.entries()) {
+        console.log(`${key}:`, value);
       }
-  
-      window.location.reload() // Uncomment if you want to reload after successful submission
-  
-    } catch (error) {
-      console.error('Error submitting review:', error);
-      alert('Error submitting review');
+    
+      try {
+        const response = await fetch(
+          dialogType === 'edit'
+            ? `http://localhost:5000/api/reviews/${review._id}`
+            : `http://localhost:5000/api/reviews/${restaurantId}`,
+          {
+            method: dialogType === 'edit' ? 'PUT' : 'POST',
+            headers: {
+              'Authorization': `Bearer ${localStorage.getItem('token')}`,
+            },
+            body: formData,
+          }
+        );
+    
+        if (!response.ok) {
+          const errorData = await response.json();
+          alert(errorData.message || 'Something went wrong');
+          return;
+        }
+    
+        window.location.reload() // Uncomment if you want to reload after successful submission
+    
+      } catch (error) {
+        console.error('Error submitting review:', error);
+        alert('Error submitting review');
+      }
+    
     }
-  };
+  }
+   };
 
   
   const removeImage = (index) => {

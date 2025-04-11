@@ -1,0 +1,1706 @@
+4/11/2025, 12:24:31 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 12:24:31 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 12:24:31 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 12:25:23 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:25:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:29:23 PM GET request made to: /api/restaurants
+4/11/2025, 12:29:23 PM GET request made to: /api/restaurants
+4/11/2025, 12:29:23 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:29:23 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:29:23 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:29:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:29:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:29:23 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:29:23 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:29:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:29:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:29:23 PM GET request made to: /api/restaurants
+4/11/2025, 12:29:23 PM GET request made to: /api/restaurants
+4/11/2025, 12:29:23 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:29:23 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:29:23 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:29:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:29:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:29:23 PM GET request made to: /api/restaurants
+4/11/2025, 12:29:23 PM GET request made to: /api/restaurants
+4/11/2025, 12:29:23 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:29:23 PM OPTIONS request made to: /api/users/logout
+4/11/2025, 12:29:23 PM POST request made to: /api/users/logout
+4/11/2025, 12:30:07 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744345471,"exp":1744349071}
+4/11/2025, 12:30:07 PM GET request made to: /api/users/check-username/admin1
+4/11/2025, 12:30:07 PM OPTIONS request made to: /api/users/login
+4/11/2025, 12:30:07 PM POST request made to: /api/users/login
+4/11/2025, 12:30:11 PM Login attempt with details: Username: jane_smith Password: password123
+4/11/2025, 12:30:07 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:30:07 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:30:07 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:30:07 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:30:07 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:30:07 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:30:12 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744345811,"exp":1744349411}
+4/11/2025, 12:30:12 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:30:12 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:30:12 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:30:12 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744345811,"exp":1744349411}
+4/11/2025, 12:30:12 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:30:12 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 12:30:12 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:30:12 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744345811,"exp":1744349411}
+4/11/2025, 12:30:12 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:30:12 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744345811,"exp":1744349411}
+4/11/2025, 12:30:12 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:30:12 PM OPTIONS request made to: /api/users/logout
+4/11/2025, 12:30:12 PM POST request made to: /api/users/logout
+4/11/2025, 12:30:16 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744345811,"exp":1744349411}
+4/11/2025, 12:30:16 PM GET request made to: /api/users/check-username/jane_smith
+4/11/2025, 12:30:16 PM OPTIONS request made to: /api/users/login
+4/11/2025, 12:30:16 PM POST request made to: /api/users/login
+4/11/2025, 12:30:23 PM Login attempt with details: Username: sushiFan Password: securePassword2
+4/11/2025, 12:30:16 PM OPTIONS request made to: /api/restaurants/login
+4/11/2025, 12:30:16 PM POST request made to: /api/restaurants/login
+4/11/2025, 12:30:23 PM Login attempt with details: Username: sushiFan Password: securePassword2
+4/11/2025, 12:30:16 PM GET request made to: /api/restaurants/67f88be56d8cef42a839db39
+4/11/2025, 12:30:16 PM GET request made to: /api/restaurants/67f88be56d8cef42a839db39
+4/11/2025, 12:30:16 PM OPTIONS request made to: /api/restaurants/logout
+4/11/2025, 12:30:16 PM POST request made to: /api/restaurants/logout
+4/11/2025, 12:30:27 PM {"id":"67f88be56d8cef42a839db39","username":"Sushi Central","iat":1744345823,"exp":1744349423}
+4/11/2025, 12:30:27 PM GET request made to: /api/users/check-username/sushiFan
+4/11/2025, 12:30:27 PM OPTIONS request made to: /api/users/login
+4/11/2025, 12:30:27 PM POST request made to: /api/users/login
+4/11/2025, 12:30:30 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 12:30:27 PM OPTIONS request made to: /api/restaurants/login
+4/11/2025, 12:30:27 PM POST request made to: /api/restaurants/login
+4/11/2025, 12:30:30 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 12:30:27 PM OPTIONS request made to: /api/admins/login
+4/11/2025, 12:30:27 PM POST request made to: /api/admins/login
+4/11/2025, 12:30:30 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 12:30:27 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:30:27 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:30:27 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:30:27 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:30:27 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:30:27 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:30:27 PM GET request made to: /api/restaurants
+4/11/2025, 12:30:27 PM GET request made to: /api/restaurants
+4/11/2025, 12:30:27 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:30:27 PM OPTIONS request made to: /api/users/logout
+4/11/2025, 12:30:27 PM POST request made to: /api/users/logout
+4/11/2025, 12:31:18 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744345830,"exp":1744349430}
+4/11/2025, 12:31:18 PM GET request made to: /api/users/check-username/admin1
+4/11/2025, 12:31:18 PM OPTIONS request made to: /api/users/login
+4/11/2025, 12:31:18 PM POST request made to: /api/users/login
+4/11/2025, 12:31:21 PM Login attempt with details: Username: jane_smith Password: password123
+4/11/2025, 12:31:18 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:31:18 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:31:18 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:31:18 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:31:18 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:31:18 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:31:18 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:31:18 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:31:22 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744345881,"exp":1744349481}
+4/11/2025, 12:31:22 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:31:22 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:31:22 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744345881,"exp":1744349481}
+4/11/2025, 12:31:22 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 12:31:22 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:31:22 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744345881,"exp":1744349481}
+4/11/2025, 12:31:22 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:31:22 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744345881,"exp":1744349481}
+4/11/2025, 12:31:22 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:31:22 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:31:22 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:31:22 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:31:22 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:31:22 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:31:22 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:33:32 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744345881,"exp":1744349481}
+4/11/2025, 12:33:32 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:33:32 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:33:32 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:33:32 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744345881,"exp":1744349481}
+4/11/2025, 12:33:32 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744345881,"exp":1744349481}
+4/11/2025, 12:33:32 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:33:32 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:33:32 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744345881,"exp":1744349481}
+4/11/2025, 12:33:32 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:33:35 PM OPTIONS request made to: /api/users/logout
+4/11/2025, 12:33:35 PM POST request made to: /api/users/logout
+4/11/2025, 12:33:37 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744345881,"exp":1744349481}
+4/11/2025, 12:33:37 PM GET request made to: /api/users/check-username/jane_smith
+4/11/2025, 12:33:37 PM OPTIONS request made to: /api/users/login
+4/11/2025, 12:33:37 PM POST request made to: /api/users/login
+4/11/2025, 12:33:41 PM Login attempt with details: Username: jane_smith Password: password123
+4/11/2025, 12:33:37 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:33:37 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:33:37 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:33:37 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:33:37 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:33:37 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:33:37 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:33:42 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:33:42 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:33:42 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:33:42 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:33:42 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:33:42 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:33:42 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:33:42 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:33:42 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:33:42 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:33:46 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:33:46 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:33:46 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:33:46 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:33:46 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:33:46 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:33:46 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:33:46 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:33:46 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:33:46 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:33:46 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:33:46 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:33:46 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:34:50 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:34:50 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:34:50 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:34:50 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:34:50 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:34:50 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:34:50 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:34:50 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:34:50 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:34:52 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:34:52 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:34:54 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:34:54 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:34:54 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:35:18 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:35:18 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:35:18 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:35:37 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:35:37 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:35:40 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:35:42 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:35:40 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:35:42 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:35:42 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:35:44 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:36:00 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:36:00 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:36:00 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:36:00 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:36:00 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:36:00 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:36:00 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:36:00 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:36:02 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:36:02 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:36:02 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:36:02 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:36:02 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 12:36:02 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:36:02 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:36:02 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:36:02 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:36:02 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:36:42 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:36:42 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:36:42 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:36:42 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:36:42 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:36:42 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:36:42 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:36:44 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:36:44 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:36:44 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:36:44 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:36:44 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:36:44 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 12:36:44 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:36:44 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:36:44 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:36:44 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:36:44 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:36:44 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:38:54 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:36:44 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:38:54 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:38:58 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:38:58 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:39:04 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:38:58 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:39:04 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:39:06 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:39:06 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:39:06 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:39:06 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:39:06 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:39:06 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:39:06 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:39:06 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:39:07 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:39:07 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:39:07 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:39:07 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 12:39:07 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:39:07 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:39:28 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:39:07 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:39:28 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:39:28 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:39:28 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:39:28 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:39:28 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:39:28 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:41:12 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:41:12 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:41:12 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:41:12 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:41:12 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:41:12 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:41:12 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:41:12 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:41:12 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:41:12 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:41:15 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:41:15 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:41:15 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:41:15 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:41:15 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:41:15 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:41:15 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:41:15 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:41:15 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:41:15 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:41:15 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:41:15 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:41:15 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:41:15 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:41:17 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:41:15 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:41:17 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:41:17 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:41:17 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:41:17 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:41:17 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:41:17 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:41:17 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:41:17 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:41:17 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:41:17 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:41:17 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:41:24 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:41:24 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:41:24 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:41:24 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:41:24 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:41:24 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:41:24 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:41:24 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:41:24 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:41:24 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:41:24 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 12:41:24 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:41:24 PM OPTIONS request made to: /api/users/logout
+4/11/2025, 12:41:24 PM POST request made to: /api/users/logout
+4/11/2025, 12:41:28 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346021,"exp":1744349621}
+4/11/2025, 12:41:28 PM GET request made to: /api/users/check-username/jane_smith
+4/11/2025, 12:41:28 PM OPTIONS request made to: /api/users/login
+4/11/2025, 12:41:28 PM POST request made to: /api/users/login
+4/11/2025, 12:41:30 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 12:41:28 PM OPTIONS request made to: /api/restaurants/login
+4/11/2025, 12:41:28 PM POST request made to: /api/restaurants/login
+4/11/2025, 12:41:30 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 12:41:28 PM OPTIONS request made to: /api/admins/login
+4/11/2025, 12:41:28 PM POST request made to: /api/admins/login
+4/11/2025, 12:41:30 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 12:41:28 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:41:28 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:41:28 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:41:28 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:41:28 PM GET request made to: /api/restaurants
+4/11/2025, 12:41:28 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:41:28 PM GET request made to: /api/restaurants
+4/11/2025, 12:41:28 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:41:28 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:41:28 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:41:28 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:41:28 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:41:28 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:41:28 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:41:28 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:42:18 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:42:18 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:42:18 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:42:18 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:42:18 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:42:18 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:42:18 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:42:18 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:42:18 PM OPTIONS request made to: /api/users/logout
+4/11/2025, 12:42:18 PM POST request made to: /api/users/logout
+4/11/2025, 12:44:11 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744346490,"exp":1744350090}
+4/11/2025, 12:44:11 PM GET request made to: /api/users/check-username/admin1
+4/11/2025, 12:44:11 PM OPTIONS request made to: /api/users/login
+4/11/2025, 12:44:11 PM POST request made to: /api/users/login
+4/11/2025, 12:44:16 PM Login attempt with details: Username: jane_smith Password: password123
+4/11/2025, 12:44:11 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:44:11 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:44:11 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:44:11 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:44:11 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:44:11 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:44:11 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:44:17 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346656,"exp":1744350256}
+4/11/2025, 12:44:17 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:44:17 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:44:17 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:44:17 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346656,"exp":1744350256}
+4/11/2025, 12:44:17 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 12:44:17 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:44:17 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346656,"exp":1744350256}
+4/11/2025, 12:44:17 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:44:17 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346656,"exp":1744350256}
+4/11/2025, 12:44:17 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:44:17 PM OPTIONS request made to: /api/users/logout
+4/11/2025, 12:44:17 PM POST request made to: /api/users/logout
+4/11/2025, 12:44:37 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346656,"exp":1744350256}
+4/11/2025, 12:44:37 PM GET request made to: /api/users/check-username/jane_smith
+4/11/2025, 12:44:37 PM OPTIONS request made to: /api/users/login
+4/11/2025, 12:44:37 PM POST request made to: /api/users/login
+4/11/2025, 12:44:40 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 12:44:37 PM OPTIONS request made to: /api/restaurants/login
+4/11/2025, 12:44:37 PM POST request made to: /api/restaurants/login
+4/11/2025, 12:44:40 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 12:44:37 PM OPTIONS request made to: /api/admins/login
+4/11/2025, 12:44:37 PM POST request made to: /api/admins/login
+4/11/2025, 12:44:40 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 12:44:37 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:44:37 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:44:37 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:44:37 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:44:37 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:44:37 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:44:37 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:44:37 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:44:37 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:44:37 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:44:37 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:44:37 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:44:37 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:44:37 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:44:37 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:44:37 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:44:37 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:44:37 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:44:37 PM OPTIONS request made to: /api/users/logout
+4/11/2025, 12:44:37 PM POST request made to: /api/users/logout
+4/11/2025, 12:46:02 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744346680,"exp":1744350280}
+4/11/2025, 12:46:02 PM GET request made to: /api/users/check-username/admin1
+4/11/2025, 12:46:02 PM OPTIONS request made to: /api/users/login
+4/11/2025, 12:46:02 PM POST request made to: /api/users/login
+4/11/2025, 12:46:06 PM Login attempt with details: Username: jane_smith Password: password123
+4/11/2025, 12:46:02 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:46:02 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:46:02 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:46:02 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:46:02 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:46:02 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:46:02 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:46:07 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:46:02 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:46:07 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:46:07 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:46:07 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:46:07 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 12:46:07 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:46:08 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:46:08 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:46:08 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:46:08 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:46:08 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:46:08 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:46:08 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:46:08 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:46:08 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:46:08 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:46:08 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:47:52 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:46:08 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:47:52 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:47:52 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:47:52 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:47:52 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:47:52 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:47:52 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:47:52 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:47:52 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:47:52 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:47:52 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:47:52 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:47:52 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:47:52 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:47:52 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:47:52 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:48:07 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:48:07 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:48:07 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:48:07 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:48:07 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:48:07 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:48:07 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:48:07 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:48:07 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 12:48:07 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:48:07 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:48:07 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:48:07 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:48:07 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:48:07 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:48:07 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:48:07 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:48:07 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:48:31 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:48:31 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:48:31 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:48:31 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:48:31 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:48:31 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:48:31 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:48:31 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:48:31 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 12:48:31 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:48:37 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:48:37 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:48:37 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:48:37 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:48:37 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:48:37 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:48:40 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:48:37 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:48:40 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:48:40 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:48:40 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:48:40 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:48:40 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 12:48:40 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:48:40 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:48:40 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:48:40 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:48:40 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:48:40 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:48:40 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:48:40 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:48:40 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:49:12 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:49:12 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:49:12 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:49:12 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:49:12 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:49:12 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:49:16 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:49:16 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:49:16 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:49:16 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:49:16 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:49:16 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:49:16 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 12:49:16 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:49:16 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:49:16 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:50:08 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:50:10 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:50:08 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:50:10 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:50:10 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:50:10 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:50:10 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:50:10 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:50:10 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:50:10 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:50:10 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:50:10 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:50:10 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 12:50:10 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:50:10 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:50:10 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:50:10 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:50:10 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:50:10 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 12:50:24 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:50:24 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:50:24 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:50:24 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:50:24 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:50:24 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:50:24 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:50:28 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:50:28 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:50:28 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:50:28 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:50:28 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:50:28 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 12:50:28 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:50:28 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:50:28 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:50:28 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:50:28 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:50:28 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:50:28 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:50:28 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:50:28 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:50:28 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:50:28 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:51:41 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:51:41 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:51:41 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:51:41 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:51:41 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:51:41 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:51:41 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:51:41 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 12:51:41 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:51:41 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:51:41 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:51:42 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:51:42 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:51:42 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:53:35 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:53:35 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:53:35 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:53:35 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:54:21 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:54:21 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:54:21 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:54:21 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:54:21 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:54:21 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:54:21 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:54:21 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:54:23 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:54:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:54:23 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:54:23 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:54:23 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:54:23 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:54:23 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:54:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:54:23 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:54:23 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:54:33 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:54:33 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:54:33 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:54:33 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:54:33 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:54:33 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:54:38 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:54:38 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:54:38 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:54:38 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:54:38 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:54:38 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:54:38 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:54:38 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:54:38 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:54:41 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:54:41 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:54:41 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:54:41 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:54:41 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:54:41 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:54:41 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:54:41 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:54:41 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:54:41 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:54:41 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:55:18 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:55:18 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:55:18 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:55:18 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:55:18 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:55:18 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:55:18 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:55:18 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:55:18 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:55:32 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:55:32 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:55:32 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:55:32 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:55:32 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:55:32 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:55:33 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:55:32 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:55:33 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:55:33 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:55:33 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:55:33 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:55:33 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:55:36 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:55:36 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:55:36 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:55:36 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:55:36 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:55:36 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:55:36 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:55:36 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:55:36 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:55:36 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:55:36 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 12:55:36 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:55:36 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:55:36 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:56:00 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:56:00 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:56:00 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:56:00 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:56:00 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:56:00 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:56:21 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:56:21 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:56:21 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:56:21 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:56:21 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:56:21 PM GET request made to: /api/restaurants
+4/11/2025, 12:56:21 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:56:21 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:56:21 PM GET request made to: /api/restaurants
+4/11/2025, 12:56:21 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:56:21 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:56:21 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:56:21 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:56:21 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:56:21 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 12:56:21 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:56:21 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 12:56:21 PM OPTIONS request made to: /api/users/logout
+4/11/2025, 12:56:21 PM POST request made to: /api/users/logout
+4/11/2025, 12:56:24 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744346766,"exp":1744350366}
+4/11/2025, 12:56:24 PM GET request made to: /api/users/check-username/jane_smith
+4/11/2025, 12:56:24 PM OPTIONS request made to: /api/users/login
+4/11/2025, 12:56:24 PM POST request made to: /api/users/login
+4/11/2025, 12:56:28 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 12:56:24 PM OPTIONS request made to: /api/restaurants/login
+4/11/2025, 12:56:24 PM POST request made to: /api/restaurants/login
+4/11/2025, 12:56:28 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 12:56:24 PM OPTIONS request made to: /api/admins/login
+4/11/2025, 12:56:24 PM POST request made to: /api/admins/login
+4/11/2025, 12:56:28 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 12:56:24 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:56:24 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:56:24 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 12:56:24 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 12:56:24 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:56:24 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:56:24 PM GET request made to: /api/admins/undefined
+4/11/2025, 12:56:30 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 12:56:30 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 12:56:30 PM GET request made to: /api/admins/undefined
+4/11/2025, 12:56:30 PM GET request made to: /api/restaurants
+4/11/2025, 12:56:30 PM GET request made to: /api/restaurants
+4/11/2025, 12:56:30 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:56:30 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:56:30 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 12:56:30 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 12:56:30 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:56:30 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:56:30 PM GET request made to: /api/admins/undefined
+4/11/2025, 12:56:39 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 12:56:39 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:56:39 PM GET request made to: /api/admins/undefined
+4/11/2025, 12:56:39 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 12:56:39 PM GET request made to: /api/restaurants
+4/11/2025, 12:56:39 PM GET request made to: /api/restaurants
+4/11/2025, 12:56:39 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:56:39 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:56:39 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 12:56:39 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:56:39 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 12:56:39 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:56:39 PM GET request made to: /api/admins/undefined
+4/11/2025, 12:56:54 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:56:54 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 12:56:54 PM GET request made to: /api/admins/undefined
+4/11/2025, 12:56:54 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 12:56:54 PM GET request made to: /api/restaurants
+4/11/2025, 12:56:54 PM GET request made to: /api/restaurants
+4/11/2025, 12:56:54 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:56:54 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:56:54 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 12:56:54 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:56:54 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 12:56:54 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:56:54 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:56:54 PM GET request made to: /api/admins/undefined
+4/11/2025, 12:57:11 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 12:57:11 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:57:11 PM GET request made to: /api/admins/undefined
+4/11/2025, 12:57:11 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 12:57:11 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:57:11 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 12:57:11 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:57:45 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 12:57:11 PM GET request made to: /api/admins/undefined
+4/11/2025, 12:57:45 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:57:49 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 12:57:45 PM GET request made to: /api/admins/undefined
+4/11/2025, 12:57:49 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:57:49 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 12:57:49 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:58:11 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 12:57:49 PM GET request made to: /api/admins/undefined
+4/11/2025, 12:58:11 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:58:11 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:58:11 PM GET request made to: /api/admins/undefined
+4/11/2025, 12:58:13 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 12:58:13 PM GET request made to: /api/admins/undefined
+4/11/2025, 12:58:13 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 12:58:13 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:58:13 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 12:58:13 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:58:13 PM GET request made to: /api/admins/undefined
+4/11/2025, 12:58:29 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 12:58:29 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:58:29 PM GET request made to: /api/admins/undefined
+4/11/2025, 12:58:30 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 12:58:30 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:58:30 PM GET request made to: /api/admins/undefined
+4/11/2025, 12:58:33 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 12:58:33 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:58:33 PM GET request made to: /api/admins/undefined
+4/11/2025, 12:58:33 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 12:58:33 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:58:33 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 12:58:33 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:58:33 PM GET request made to: /api/admins/undefined
+4/11/2025, 12:58:45 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 12:58:47 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:58:47 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:58:47 PM GET request made to: /api/admins/undefined
+4/11/2025, 12:58:49 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 12:58:49 PM GET request made to: /api/admins/undefined
+4/11/2025, 12:58:49 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 12:58:49 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:58:49 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:58:49 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 12:58:49 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:58:49 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 12:58:49 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:58:49 PM GET request made to: /api/admins/undefined
+4/11/2025, 12:58:52 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 12:58:52 PM GET request made to: /api/admins/undefined
+4/11/2025, 12:58:52 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 12:58:52 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 12:58:52 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 12:58:52 PM POST request made to: /api/users/checkToken
+4/11/2025, 12:58:52 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:01:16 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:01:16 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:01:16 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:01:16 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:01:16 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:01:34 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:01:34 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:01:34 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:01:36 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:01:36 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:01:37 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:01:36 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:01:37 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:01:37 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:01:37 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:01:37 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:01:44 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:01:44 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:01:44 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:01:44 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:02:04 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:01:44 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:02:04 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:02:04 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:02:04 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:02:10 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:02:04 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:02:10 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:02:10 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:02:12 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:02:12 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:02:12 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:02:12 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:02:14 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:02:14 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:02:14 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:02:22 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:02:22 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:02:22 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:02:22 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:02:22 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:02:22 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:02:22 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:02:25 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:02:25 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:02:25 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:02:25 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:02:25 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:02:25 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:02:25 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:02:45 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:02:45 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:02:45 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:02:45 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:02:45 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:02:55 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:03:13 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:03:13 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:03:13 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:03:13 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:03:13 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:03:13 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:03:15 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:03:15 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:03:15 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:03:15 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:03:15 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:03:15 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:03:15 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:03:15 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:04:07 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:04:07 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:04:07 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:04:07 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:04:07 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:04:19 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:04:19 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:04:19 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:04:20 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:04:20 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:04:20 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:04:20 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:04:20 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:04:20 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:04:20 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:04:20 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:05:54 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:05:54 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:05:54 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:05:54 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:05:54 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:07:38 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:07:38 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:07:38 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:07:38 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:07:38 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:09:13 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:09:13 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:09:16 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:09:13 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:09:16 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:09:16 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:09:17 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:09:17 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:09:17 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:09:17 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:09:17 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:09:17 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:09:17 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:09:18 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:09:17 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:09:18 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:09:18 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:09:18 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:09:18 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:09:18 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:09:18 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:10:05 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:10:05 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:10:05 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:10:09 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:10:09 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:10:09 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:10:09 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:10:09 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:10:18 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:10:18 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:10:18 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:10:18 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:10:18 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:12:25 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:13:19 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:13:19 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:13:19 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:13:19 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:13:19 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:13:19 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:13:19 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:13:22 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:13:22 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:13:22 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744347388,"exp":1744350988}
+4/11/2025, 1:13:22 PM OPTIONS request made to: /api/users/logout
+4/11/2025, 1:13:22 PM POST request made to: /api/users/logout
+4/11/2025, 1:13:22 PM GET request made to: /api/users/check-username/admin1
+4/11/2025, 1:13:22 PM OPTIONS request made to: /api/users/login
+4/11/2025, 1:13:22 PM POST request made to: /api/users/login
+4/11/2025, 1:15:23 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 1:13:22 PM OPTIONS request made to: /api/restaurants/login
+4/11/2025, 1:13:22 PM POST request made to: /api/restaurants/login
+4/11/2025, 1:15:23 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 1:13:22 PM OPTIONS request made to: /api/admins/login
+4/11/2025, 1:13:22 PM POST request made to: /api/admins/login
+4/11/2025, 1:15:23 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 1:13:22 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:13:22 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:13:22 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:13:22 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:13:22 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:15:24 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744348523,"exp":1744352123}
+4/11/2025, 1:13:22 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:15:24 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:15:24 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:15:24 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744348523,"exp":1744352123}
+4/11/2025, 1:15:24 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:15:24 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:15:24 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:15:24 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:16:23 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744348523,"exp":1744352123}
+4/11/2025, 1:16:23 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:16:23 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:16:23 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:16:23 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:16:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:16:23 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:16:23 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:16:47 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744348523,"exp":1744352123}
+4/11/2025, 1:16:47 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:16:47 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744348523,"exp":1744352123}
+4/11/2025, 1:16:47 PM GET request made to: /Logs.txt
+4/11/2025, 1:22:47 PM OPTIONS request made to: /api/users/logout
+4/11/2025, 1:22:50 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744348876,"exp":1744352476}
+4/11/2025, 1:22:47 PM POST request made to: /api/users/logout
+4/11/2025, 1:22:50 PM GET request made to: /api/users/check-username/jane_smith
+4/11/2025, 1:22:50 PM OPTIONS request made to: /api/users/login
+4/11/2025, 1:22:50 PM POST request made to: /api/users/login
+4/11/2025, 1:22:52 PM Login attempt with details: Username: jane_smith Password: password123
+4/11/2025, 1:22:50 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:22:50 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:22:50 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:22:50 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:22:50 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:22:50 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:22:50 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:22:53 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744348972,"exp":1744352572}
+4/11/2025, 1:22:53 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:22:53 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:22:53 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744348972,"exp":1744352572}
+4/11/2025, 1:22:53 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:22:53 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744348972,"exp":1744352572}
+4/11/2025, 1:22:53 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:22:53 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744348972,"exp":1744352572}
+4/11/2025, 1:22:53 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:22:53 PM POST request made to: /api/users/logout
+4/11/2025, 1:22:55 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744348972,"exp":1744352572}
+4/11/2025, 1:22:55 PM GET request made to: /api/users/check-username/jane_smith
+4/11/2025, 1:22:55 PM OPTIONS request made to: /api/users/login
+4/11/2025, 1:22:55 PM POST request made to: /api/users/login
+4/11/2025, 1:22:58 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 1:22:55 PM OPTIONS request made to: /api/restaurants/login
+4/11/2025, 1:22:55 PM POST request made to: /api/restaurants/login
+4/11/2025, 1:22:58 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 1:22:55 PM OPTIONS request made to: /api/admins/login
+4/11/2025, 1:22:55 PM POST request made to: /api/admins/login
+4/11/2025, 1:22:58 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 1:22:55 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:22:55 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:22:55 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:22:55 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:22:55 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:22:55 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:22:55 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:23:00 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744348978,"exp":1744352578}
+4/11/2025, 1:23:00 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:23:00 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744348978,"exp":1744352578}
+4/11/2025, 1:23:00 PM OPTIONS request made to: /api/users/logout
+4/11/2025, 1:23:00 PM POST request made to: /api/users/logout
+4/11/2025, 1:25:47 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744348978,"exp":1744352578}
+4/11/2025, 1:25:47 PM GET request made to: /api/users/check-username/admin1
+4/11/2025, 1:25:47 PM OPTIONS request made to: /api/users/login
+4/11/2025, 1:25:47 PM POST request made to: /api/users/login
+4/11/2025, 1:25:49 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 1:25:47 PM OPTIONS request made to: /api/restaurants/login
+4/11/2025, 1:25:47 PM POST request made to: /api/restaurants/login
+4/11/2025, 1:25:49 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 1:25:47 PM OPTIONS request made to: /api/admins/login
+4/11/2025, 1:25:47 PM POST request made to: /api/admins/login
+4/11/2025, 1:25:49 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 1:25:47 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:25:47 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:25:47 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:25:47 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:25:47 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:25:47 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:25:47 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:25:50 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744349149,"exp":1744352749}
+4/11/2025, 1:25:50 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:25:50 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744349149,"exp":1744352749}
+4/11/2025, 1:25:50 PM OPTIONS request made to: /api/users/logout
+4/11/2025, 1:25:50 PM POST request made to: /api/users/logout
+4/11/2025, 1:25:55 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744349149,"exp":1744352749}
+4/11/2025, 1:25:55 PM GET request made to: /api/users/check-username/admin1
+4/11/2025, 1:25:55 PM OPTIONS request made to: /api/users/login
+4/11/2025, 1:25:55 PM POST request made to: /api/users/login
+4/11/2025, 1:25:58 PM Login attempt with details: Username: jane_smith Password: password123
+4/11/2025, 1:25:55 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:25:55 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:25:55 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:25:55 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:25:55 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:25:55 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:26:00 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349158,"exp":1744352758}
+4/11/2025, 1:25:55 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:26:00 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:26:00 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:26:00 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:26:00 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349158,"exp":1744352758}
+4/11/2025, 1:26:00 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 1:26:00 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:26:00 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349158,"exp":1744352758}
+4/11/2025, 1:26:00 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 1:26:00 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:26:00 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349158,"exp":1744352758}
+4/11/2025, 1:26:00 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:26:00 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:26:00 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:26:00 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:26:06 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349158,"exp":1744352758}
+4/11/2025, 1:26:00 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:26:06 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:26:06 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:26:06 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349158,"exp":1744352758}
+4/11/2025, 1:26:06 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:26:06 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 1:26:06 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:26:06 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:26:06 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:26:06 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:26:06 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:26:06 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:27:02 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349158,"exp":1744352758}
+4/11/2025, 1:27:02 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:27:02 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:27:02 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349158,"exp":1744352758}
+4/11/2025, 1:27:02 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 1:27:02 PM OPTIONS request made to: /api/users/logout
+4/11/2025, 1:28:20 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349158,"exp":1744352758}
+4/11/2025, 1:27:02 PM POST request made to: /api/users/logout
+4/11/2025, 1:28:20 PM GET request made to: /api/users/check-username/jane_smith
+4/11/2025, 1:28:20 PM OPTIONS request made to: /api/users/login
+4/11/2025, 1:28:20 PM POST request made to: /api/users/login
+4/11/2025, 1:28:26 PM Login attempt with details: Username: jane_smith Password: password123
+4/11/2025, 1:28:20 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:28:20 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:28:20 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:28:20 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:28:20 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:28:20 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:28:20 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:28:20 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:28:27 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:28:27 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:28:27 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:28:28 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:28:28 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 1:28:28 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:28:28 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:28:28 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:28:28 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:28:28 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 1:28:28 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:28:28 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:28:28 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:28:28 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:28:28 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:28:39 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:28:28 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:28:39 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:28:39 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:28:39 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:28:39 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 1:28:39 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:28:39 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:28:39 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:28:39 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:28:39 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:28:39 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:28:39 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:28:39 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:28:39 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:32:15 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:32:15 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:32:15 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:32:15 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:32:15 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:32:15 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:32:15 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:32:15 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 1:32:15 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:32:15 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:32:15 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 1:32:15 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:32:15 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:32:18 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:32:18 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:32:18 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:32:18 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:32:18 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 1:32:18 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:32:18 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:32:18 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:32:18 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:32:18 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:32:45 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:32:45 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:32:45 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:32:45 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:32:45 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:32:45 PM GET request made to: /api/restaurants
+4/11/2025, 1:32:45 PM GET request made to: /api/restaurants
+4/11/2025, 1:32:45 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:32:45 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:32:45 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 1:32:45 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:32:45 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:32:45 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:32:45 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:32:45 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:32:45 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:32:55 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:32:55 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:32:55 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:32:55 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:32:55 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 1:32:55 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:32:55 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:32:55 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:32:55 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:32:55 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:32:55 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:33:12 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:32:55 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:33:12 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:33:12 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:33:12 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 1:33:12 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:33:12 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:33:12 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:33:12 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:33:12 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:33:24 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:33:24 PM GET request made to: /api/restaurants
+4/11/2025, 1:33:24 PM GET request made to: /api/restaurants
+4/11/2025, 1:33:24 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:33:24 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:33:24 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:33:24 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:33:24 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:33:24 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:33:24 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 1:33:24 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 1:33:34 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:33:34 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:33:38 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:33:38 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:33:38 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:33:38 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:33:38 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:33:38 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:33:38 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:33:39 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:33:39 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 1:33:39 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:33:39 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:33:39 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:33:39 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:33:39 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:33:39 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:33:39 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:33:39 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:34:00 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:34:00 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:34:00 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:34:00 PM GET request made to: /api/restaurants
+4/11/2025, 1:34:00 PM GET request made to: /api/restaurants
+4/11/2025, 1:34:00 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:34:00 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:34:00 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:34:00 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:34:00 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 1:34:00 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:34:00 PM GET request made to: /api/restaurants
+4/11/2025, 1:34:00 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:34:23 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:34:00 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:34:23 PM GET request made to: /api/restaurants
+4/11/2025, 1:34:23 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:34:23 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:34:23 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 1:34:23 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 1:34:23 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:34:26 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:34:26 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:34:26 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:34:26 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:34:26 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:34:26 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:34:26 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:34:26 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:34:26 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:34:26 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:34:26 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:34:26 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:34:26 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:34:26 PM GET request made to: /api/restaurants
+4/11/2025, 1:34:26 PM GET request made to: /api/restaurants
+4/11/2025, 1:34:26 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:34:26 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:34:26 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 1:34:26 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 1:34:26 PM OPTIONS request made to: /api/users/logout
+4/11/2025, 1:34:26 PM POST request made to: /api/users/logout
+4/11/2025, 1:34:40 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349306,"exp":1744352906}
+4/11/2025, 1:34:40 PM GET request made to: /api/users/check-username/jane_smith
+4/11/2025, 1:34:40 PM OPTIONS request made to: /api/users/login
+4/11/2025, 1:34:40 PM POST request made to: /api/users/login
+4/11/2025, 1:34:43 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 1:34:40 PM OPTIONS request made to: /api/restaurants/login
+4/11/2025, 1:34:40 PM POST request made to: /api/restaurants/login
+4/11/2025, 1:34:43 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 1:34:40 PM OPTIONS request made to: /api/admins/login
+4/11/2025, 1:34:40 PM POST request made to: /api/admins/login
+4/11/2025, 1:34:43 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 1:34:40 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:34:40 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:34:40 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:34:40 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:34:40 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:34:40 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:34:45 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744349683,"exp":1744353283}
+4/11/2025, 1:34:45 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:34:45 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:34:45 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744349683,"exp":1744353283}
+4/11/2025, 1:34:45 PM GET request made to: /api/restaurants
+4/11/2025, 1:34:45 PM GET request made to: /api/restaurants
+4/11/2025, 1:34:45 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 1:34:45 PM GET request made to: /api/restaurants
+4/11/2025, 1:34:45 PM GET request made to: /api/restaurants
+4/11/2025, 1:34:45 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 1:34:45 PM OPTIONS request made to: /api/users/logout
+4/11/2025, 1:34:45 PM POST request made to: /api/users/logout
+4/11/2025, 1:35:38 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744349683,"exp":1744353283}
+4/11/2025, 1:35:38 PM GET request made to: /api/users/check-username/admin1
+4/11/2025, 1:35:38 PM OPTIONS request made to: /api/users/login
+4/11/2025, 1:35:38 PM POST request made to: /api/users/login
+4/11/2025, 1:35:42 PM Login attempt with details: Username: jane_smith Password: password123
+4/11/2025, 1:35:38 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:35:38 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:35:38 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:35:38 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:35:38 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:35:38 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:35:38 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:35:43 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349742,"exp":1744353342}
+4/11/2025, 1:35:43 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:35:43 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:35:43 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:35:43 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349742,"exp":1744353342}
+4/11/2025, 1:35:43 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 1:35:43 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:35:43 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349742,"exp":1744353342}
+4/11/2025, 1:35:43 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:35:43 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349742,"exp":1744353342}
+4/11/2025, 1:35:43 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:35:43 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:35:43 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:35:43 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:35:43 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:35:43 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:35:54 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:35:54 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349742,"exp":1744353342}
+4/11/2025, 1:35:54 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:35:54 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349742,"exp":1744353342}
+4/11/2025, 1:35:54 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 1:35:54 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349742,"exp":1744353342}
+4/11/2025, 1:35:54 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:35:54 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:35:54 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349742,"exp":1744353342}
+4/11/2025, 1:35:54 PM GET request made to: /api/restaurants
+4/11/2025, 1:35:54 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:35:54 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349742,"exp":1744353342}
+4/11/2025, 1:35:54 PM GET request made to: /api/restaurants
+4/11/2025, 1:35:54 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:35:54 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349742,"exp":1744353342}
+4/11/2025, 1:35:54 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 1:35:54 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 1:35:54 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:35:54 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:38:23 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349742,"exp":1744353342}
+4/11/2025, 1:38:23 PM GET request made to: /api/restaurants
+4/11/2025, 1:38:23 PM GET request made to: /api/restaurants
+4/11/2025, 1:38:23 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:38:23 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349742,"exp":1744353342}
+4/11/2025, 1:38:23 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 1:38:23 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 1:38:23 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:38:23 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:38:23 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:38:43 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349742,"exp":1744353342}
+4/11/2025, 1:38:43 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:38:43 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:38:43 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349742,"exp":1744353342}
+4/11/2025, 1:38:43 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:38:43 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 1:38:43 PM OPTIONS request made to: /api/users/logout
+4/11/2025, 1:38:43 PM POST request made to: /api/users/logout
+4/11/2025, 1:38:47 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349742,"exp":1744353342}
+4/11/2025, 1:38:47 PM GET request made to: /api/users/check-username/jane_smith
+4/11/2025, 1:38:47 PM OPTIONS request made to: /api/users/login
+4/11/2025, 1:38:47 PM POST request made to: /api/users/login
+4/11/2025, 1:38:51 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 1:38:47 PM OPTIONS request made to: /api/restaurants/login
+4/11/2025, 1:38:47 PM POST request made to: /api/restaurants/login
+4/11/2025, 1:38:51 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 1:38:47 PM OPTIONS request made to: /api/admins/login
+4/11/2025, 1:38:47 PM POST request made to: /api/admins/login
+4/11/2025, 1:38:51 PM Login attempt with details: Username: admin1 Password: password123
+4/11/2025, 1:38:47 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:38:47 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:38:47 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:38:47 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:38:47 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:38:47 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:38:47 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:38:53 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744349931,"exp":1744353531}
+4/11/2025, 1:38:53 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:38:53 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744349931,"exp":1744353531}
+4/11/2025, 1:39:03 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:39:03 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:39:03 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:39:03 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:39:03 PM OPTIONS request made to: /api/admins/undefined
+4/11/2025, 1:39:03 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:39:04 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744349931,"exp":1744353531}
+4/11/2025, 1:39:04 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:39:04 PM GET request made to: /api/admins/undefined
+4/11/2025, 1:39:04 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744349931,"exp":1744353531}
+4/11/2025, 1:39:04 PM OPTIONS request made to: /api/users/logout
+4/11/2025, 1:39:04 PM POST request made to: /api/users/logout
+4/11/2025, 1:39:07 PM {"id":"67f88be56d8cef42a839db43","username":"admin1","iat":1744349931,"exp":1744353531}
+4/11/2025, 1:39:07 PM GET request made to: /api/users/check-username/admin1
+4/11/2025, 1:39:07 PM OPTIONS request made to: /api/users/login
+4/11/2025, 1:39:07 PM POST request made to: /api/users/login
+4/11/2025, 1:39:13 PM Login attempt with details: Username: jane_smith Password: password123
+4/11/2025, 1:39:07 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:39:07 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:39:07 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:39:07 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:39:07 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:39:07 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:39:07 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:39:14 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 1:39:14 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:39:14 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:39:14 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:39:14 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 1:39:14 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 1:39:14 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:39:14 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 1:39:14 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:39:14 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 1:39:14 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 1:39:14 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:39:14 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:39:14 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:39:19 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 1:39:19 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:39:19 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:39:19 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:39:19 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 1:39:19 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 1:39:19 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:39:19 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:39:19 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 1:39:19 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:39:19 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:39:19 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:40:19 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 1:40:19 PM POST request made to: /api/users/checkToken
+4/11/2025, 1:40:19 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:40:19 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 1:40:19 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 1:40:19 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:40:19 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:40:19 PM GET request made to: /api/restaurants
+4/11/2025, 1:40:19 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:57:18 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 1:57:18 PM GET request made to: /api/restaurants
+4/11/2025, 1:57:18 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:57:18 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 1:57:18 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 1:57:18 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 1:57:18 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:57:19 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 1:57:19 PM GET request made to: /api/restaurants/67f88be56d8cef42a839db38
+4/11/2025, 1:57:19 PM GET request made to: /undefined
+4/11/2025, 1:57:19 PM GET request made to: /api/restaurants/67f88be56d8cef42a839db38
+4/11/2025, 1:57:19 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 1:57:20 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 1:57:20 PM OPTIONS request made to: /api/reviews/67f88be56d8cef42a839db38
+4/11/2025, 1:57:20 PM POST request made to: /api/reviews/67f88be56d8cef42a839db38
+4/11/2025, 1:57:52 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 2:02:52 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:02:52 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:02:53 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 2:02:53 PM GET request made to: /api/restaurants
+4/11/2025, 2:02:53 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:02:53 PM GET request made to: /api/restaurants
+4/11/2025, 2:02:53 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:02:53 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 2:02:53 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 2:02:53 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 2:03:22 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:03:22 PM GET request made to: /api/restaurants
+4/11/2025, 2:03:22 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:03:22 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:06:54 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 2:06:54 PM GET request made to: /api/restaurants
+4/11/2025, 2:06:54 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:06:54 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 2:06:54 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 2:06:54 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 2:06:54 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:06:57 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 2:06:57 PM GET request made to: /api/restaurants
+4/11/2025, 2:06:57 PM GET request made to: /api/restaurants
+4/11/2025, 2:06:57 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:06:57 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 2:06:57 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 2:06:57 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 2:06:57 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:06:57 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:07:00 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 2:07:00 PM GET request made to: /api/restaurants
+4/11/2025, 2:07:00 PM GET request made to: /api/restaurants
+4/11/2025, 2:07:00 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 2:07:00 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:07:00 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 2:07:00 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 2:07:00 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:07:00 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:07:55 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 2:07:55 PM GET request made to: /api/restaurants
+4/11/2025, 2:07:55 PM GET request made to: /api/restaurants
+4/11/2025, 2:07:55 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:07:55 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 2:07:55 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 2:07:55 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 2:07:55 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:07:55 PM GET request made to: /api/restaurants/67f88be56d8cef42a839db38
+4/11/2025, 2:07:55 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:07:55 PM GET request made to: /undefined
+4/11/2025, 2:07:55 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:08:30 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 2:08:30 PM GET request made to: /api/restaurants/67f88be56d8cef42a839db38
+4/11/2025, 2:08:30 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:08:30 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 2:09:06 PM OPTIONS request made to: /api/reviews/67f88be56d8cef42a839db38
+4/11/2025, 2:09:06 PM POST request made to: /api/reviews/67f88be56d8cef42a839db38
+4/11/2025, 2:09:08 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 2:09:08 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:09:08 PM GET request made to: /api/restaurants/67f88be56d8cef42a839db38
+4/11/2025, 2:09:08 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:09:08 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:09:09 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 2:09:09 PM GET request made to: /undefined
+4/11/2025, 2:09:09 PM GET request made to: /api/restaurants/67f88be56d8cef42a839db38
+4/11/2025, 2:09:09 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:09:09 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 2:09:09 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 2:09:09 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 2:09:09 PM OPTIONS request made to: /api/reviews/67f88be56d8cef42a839db38
+4/11/2025, 2:09:09 PM POST request made to: /api/reviews/67f88be56d8cef42a839db38
+4/11/2025, 2:10:44 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 2:10:44 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:10:44 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:10:44 PM GET request made to: /api/restaurants/67f88be56d8cef42a839db38
+4/11/2025, 2:10:46 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 2:10:44 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:10:46 PM GET request made to: /undefined
+4/11/2025, 2:10:46 PM GET request made to: /api/restaurants/67f88be56d8cef42a839db38
+4/11/2025, 2:10:46 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:10:46 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 2:10:46 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 2:10:46 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 2:10:51 PM OPTIONS request made to: /api/reviews/67f88be56d8cef42a839db38
+4/11/2025, 2:10:51 PM POST request made to: /api/reviews/67f88be56d8cef42a839db38
+4/11/2025, 2:11:16 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 2:11:16 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:11:16 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:11:16 PM GET request made to: /api/restaurants/67f88be56d8cef42a839db38
+4/11/2025, 2:11:16 PM GET request made to: /undefined
+4/11/2025, 2:11:16 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:11:17 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 2:11:17 PM GET request made to: /api/restaurants/67f88be56d8cef42a839db38
+4/11/2025, 2:11:17 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:11:17 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 2:11:17 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 2:11:17 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 2:12:30 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:12:30 PM GET request made to: /undefined
+4/11/2025, 2:12:30 PM GET request made to: /api/restaurants/67f88be56d8cef42a839db38
+4/11/2025, 2:12:30 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:12:30 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:12:34 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 2:12:34 PM GET request made to: /api/restaurants/67f88be56d8cef42a839db38
+4/11/2025, 2:12:34 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:12:34 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 2:12:34 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 2:12:34 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 2:12:34 PM OPTIONS request made to: /api/users/logout
+4/11/2025, 2:12:34 PM POST request made to: /api/users/logout
+4/11/2025, 2:12:37 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744349953,"exp":1744353553}
+4/11/2025, 2:12:37 PM GET request made to: /api/users/check-username/jane_smith
+4/11/2025, 2:12:37 PM OPTIONS request made to: /api/users/login
+4/11/2025, 2:12:37 PM POST request made to: /api/users/login
+4/11/2025, 2:12:40 PM Login attempt with details: Username: jane_smith Password: password123
+4/11/2025, 2:12:37 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:12:37 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 2:12:37 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:12:37 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 2:12:37 PM POST request made to: /api/users/checkToken
+4/11/2025, 2:12:37 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:12:41 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744351960,"exp":1744355560}
+4/11/2025, 2:12:41 PM POST request made to: /api/users/checkToken
+4/11/2025, 2:12:41 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:12:41 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744351960,"exp":1744355560}
+4/11/2025, 2:12:41 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:12:41 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744351960,"exp":1744355560}
+4/11/2025, 2:12:41 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:12:41 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744351960,"exp":1744355560}
+4/11/2025, 2:12:41 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:12:44 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744351960,"exp":1744355560}
+4/11/2025, 2:12:44 PM GET request made to: /api/restaurants
+4/11/2025, 2:12:44 PM GET request made to: /api/restaurants
+4/11/2025, 2:12:44 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:12:44 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744351960,"exp":1744355560}
+4/11/2025, 2:12:44 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:12:45 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744351960,"exp":1744355560}
+4/11/2025, 2:12:45 PM GET request made to: /api/restaurants/67f88be56d8cef42a839db38
+4/11/2025, 2:12:45 PM GET request made to: /undefined
+4/11/2025, 2:12:45 PM GET request made to: /api/restaurants/67f88be56d8cef42a839db38
+4/11/2025, 2:12:45 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:12:45 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744351960,"exp":1744355560}
+4/11/2025, 2:17:10 PM GET request made to: /api/users/check-username/jane_smith
+4/11/2025, 2:17:10 PM OPTIONS request made to: /api/users/login
+4/11/2025, 2:17:10 PM POST request made to: /api/users/login
+4/11/2025, 2:25:17 PM Login attempt with details: Username: jane_smith Password: password123
+4/11/2025, 2:17:10 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:17:10 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 2:17:10 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:17:10 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:25:18 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744352717,"exp":1744356317}
+4/11/2025, 2:25:18 PM OPTIONS request made to: /api/users/checkToken
+4/11/2025, 2:25:18 PM POST request made to: /api/users/checkToken
+4/11/2025, 2:25:18 PM POST request made to: /api/users/checkToken
+4/11/2025, 2:25:18 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:25:19 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744352717,"exp":1744356317}
+4/11/2025, 2:25:19 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 2:25:19 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:25:19 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744352717,"exp":1744356317}
+4/11/2025, 2:25:19 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:25:19 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744352717,"exp":1744356317}
+4/11/2025, 2:25:19 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 2:25:19 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:25:23 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744352717,"exp":1744356317}
+4/11/2025, 2:25:23 PM GET request made to: /api/restaurants
+4/11/2025, 2:25:23 PM GET request made to: /api/restaurants
+4/11/2025, 2:25:23 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:25:23 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744352717,"exp":1744356317}
+4/11/2025, 2:25:23 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:25:23 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:25:23 PM GET request made to: /api/restaurants/67f88be56d8cef42a839db38
+4/11/2025, 2:25:23 PM GET request made to: /undefined
+4/11/2025, 2:25:23 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:25:25 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744352717,"exp":1744356317}
+4/11/2025, 2:25:25 PM GET request made to: /api/restaurants/67f88be56d8cef42a839db38
+4/11/2025, 2:25:25 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:25:25 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744352717,"exp":1744356317}
+4/11/2025, 2:25:25 PM OPTIONS request made to: /api/reviews/67f88be56d8cef42a839db38
+4/11/2025, 2:25:25 PM POST request made to: /api/reviews/67f88be56d8cef42a839db38
+4/11/2025, 2:25:57 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744352717,"exp":1744356317}
+4/11/2025, 2:25:57 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:25:57 PM GET request made to: /api/restaurants/67f88be56d8cef42a839db38
+4/11/2025, 2:25:57 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:25:57 PM GET request made to: /undefined
+4/11/2025, 2:25:58 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744352717,"exp":1744356317}
+4/11/2025, 2:25:57 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:25:58 PM GET request made to: /api/restaurants/67f88be56d8cef42a839db38
+4/11/2025, 2:25:58 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:25:58 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744352717,"exp":1744356317}
+4/11/2025, 2:25:58 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 2:25:58 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 2:25:58 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:25:58 PM OPTIONS request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:25:58 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:29:40 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744352717,"exp":1744356317}
+4/11/2025, 2:29:40 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:29:40 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744352717,"exp":1744356317}
+4/11/2025, 2:29:40 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:29:41 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744352717,"exp":1744356317}
+4/11/2025, 2:29:41 PM GET request made to: /api/restaurants
+4/11/2025, 2:29:41 PM GET request made to: /api/restaurants
+4/11/2025, 2:29:41 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:29:41 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744352717,"exp":1744356317}
+4/11/2025, 2:29:41 PM GET request made to: /uploads/media/dummy-image.jpg
+4/11/2025, 2:29:41 PM GET request made to: /uploads/avatars/1730445679857-201075277.jpg
+4/11/2025, 2:29:41 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:29:43 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744352717,"exp":1744356317}
+4/11/2025, 2:29:43 PM GET request made to: /undefined
+4/11/2025, 2:29:43 PM GET request made to: /api/restaurants/67f88be56d8cef42a839db38
+4/11/2025, 2:29:43 PM GET request made to: /api/restaurants/67f88be56d8cef42a839db38
+4/11/2025, 2:29:43 PM GET request made to: /api/users/67f88be56d8cef42a839db36
+4/11/2025, 2:29:43 PM {"id":"67f88be56d8cef42a839db36","username":"jane_smith","iat":1744352717,"exp":1744356317}

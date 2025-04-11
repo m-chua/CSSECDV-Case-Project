@@ -11,7 +11,8 @@ const Header = () => {
     const navigate = useNavigate()
     const token = localStorage.getItem('token')
     const userId = localStorage.getItem('userId')
-
+    const isAdmin = localStorage.getItem('isAdmin')
+    
     const fetchUserData = async () => {
         console.log("in fetch")
         if (!userId) return
@@ -82,6 +83,9 @@ const Header = () => {
             localStorage.removeItem('token')
             localStorage.removeItem('userId')
             localStorage.removeItem('restaurantId')
+            localStorage.removeItem('adminId')
+            
+            localStorage.removeItem('isAdmin')
             setIsLoggedIn(false)
             navigate('/login')
         } catch (error) {
@@ -107,7 +111,7 @@ const Header = () => {
                 </form>
                 {isLoggedIn ? (
                     <div name="NavBarPFP">
-                    <ProfileDropdown onLogout={handleLogout} avatarUrl={avatarUrl} username={username} />
+                    <ProfileDropdown onLogout={handleLogout} avatarUrl={avatarUrl} username={username} isAdmin = {isAdmin}/>
                     </div>
                 ) : (
                     <Link to='/login' name="login" className='text-primary hover:underline' onClick={handleLoginClick}>
