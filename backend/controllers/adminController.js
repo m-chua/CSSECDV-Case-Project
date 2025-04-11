@@ -57,7 +57,7 @@ const loginAdmin = async (req, res, next) => {
                 adminService.updateAdmin(temp.id, temp)
             }
                   
-            return res.status(401).json({ message: 'Invalid credentials' })
+            return res.status(401).json({ message: 'Invalid credentials. Please try again.' })
         }
 
          //account disable
@@ -73,7 +73,7 @@ const loginAdmin = async (req, res, next) => {
             }
         }
         const token = await adminService.generateToken(admin)
-        const login = admin.lastLogin
+        const login = admin.lastLogin.toLocaleString()
         admin.lastLogin = Date.now()
         adminService.updateAdmin(admin.id, admin)
         res.json({ token, adminId: admin.id , lastLogin: login})

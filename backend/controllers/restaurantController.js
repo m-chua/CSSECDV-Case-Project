@@ -143,7 +143,7 @@ const loginRestaurantUser = async (req, res, next) => {
                 }
 
         const token = await restaurantService.generateToken(restaurantUser)
-        const login = restaurantUser.lastLogin
+        const login = restaurantUser.lastLogin.toLocaleString()
         restaurantUser.lastLogin = Date.now()
         restaurantService.updateRestaurant(restaurantUser.id, restaurantUser)
         res.json({ token, userId: restaurantUser.id , lastLogin: login})

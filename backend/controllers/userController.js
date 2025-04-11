@@ -74,7 +74,7 @@ const loginUser = async (req, res, next) => {
         }
         //token
         const token = await userService.generateToken(user)
-        const login = user.lastLogin
+        const login = user.lastLogin.toLocaleString()
         user.lastLogin = Date.now()
         userService.updateUser(user.id, user)
         return res.json({ token, userId: user.id, lastLogin: login })
