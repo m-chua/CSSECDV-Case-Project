@@ -186,8 +186,7 @@ const users = [
         username: 'john_doe',
         password: 'password123',
         cuisines: ['Italian', 'Mexican'],
-        avatar: 'https://example.com/avatar/john_doe.png',
-        passwordAge:  4/10/2025 // will surely fail to test Avatar Fallbacks
+        avatar: 'https://example.com/avatar/john_doe.png'
     },
     {
         username: 'jane_smith',
